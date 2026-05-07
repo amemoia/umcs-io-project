@@ -55,8 +55,6 @@ public class Menu {
 
         try {
             loggedInUser = backend.login(username, password);
-            System.out.println("\n  Logged in as: " + loggedInUser.username);
-            pause();
             state = EMenuState.Main;
         } catch (Exception e) {
             printError("Login failed: " + e.getMessage());
@@ -73,8 +71,6 @@ public class Menu {
 
         try {
             backend.register(username, password);
-            System.out.println("\n  Registration successful. You can now log in.");
-            pause();
         } catch (Exception e) {
             printError("Registration failed: " + e.getMessage());
         }
@@ -102,16 +98,13 @@ public class Menu {
             case "3" -> {
                 try {
                     backend.updateHeroTierlist();
-                    System.out.println("  Tierlist updated.");
                 } catch (Exception e) {
                     printError("Update failed: " + e.getMessage());
                 }
-                pause();
             }
             case "4" -> {
                 if (loggedInUser.getIsAdmin()) {
                     System.out.println("  [Admin panel not implemented yet]");
-                    pause();
                 } else {
                     printError("Invalid option.");
                 }
@@ -128,7 +121,6 @@ public class Menu {
         } catch (Exception e) {
             printError("Could not load tierlist: " + e.getMessage());
         }
-        System.out.println();
         System.out.println("  [0] Back");
         printSeparator();
         if (prompt().equals("0")) {
@@ -150,29 +142,20 @@ public class Menu {
 
         try {
             backend.importGames(path);
-            System.out.println("  Games imported successfully.");
         } catch (Exception e) {
             printError("Import failed: " + e.getMessage());
         }
-        pause();
         state = EMenuState.Main;
     }
 
     public void logout() {
-        System.out.println("\n  Logged out.");
         loggedInUser = null;
         state = EMenuState.SelectLoginRegister;
-        pause();
     }
 
     private String prompt() {
         System.out.print("  > ");
         return scanner.nextLine().trim();
-    }
-
-    private void pause() {
-        System.out.print("\n  Press ENTER to continue...");
-        scanner.nextLine();
     }
 
     private void printHeader(String title) {
@@ -188,6 +171,5 @@ public class Menu {
 
     private void printError(String msg) {
         System.out.println("\n  [!] " + msg);
-        pause();
     }
 }
