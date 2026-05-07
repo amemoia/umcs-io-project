@@ -7,12 +7,6 @@ import project.models.Game;
 import project.models.Hero;
 import project.models.HeroTierlist;
 import project.models.User;
-import project.repositories.GamesRepositoryJson;
-import project.repositories.HeroRepositoryJson;
-import project.repositories.IGamesRepository;
-import project.repositories.IHeroRepository;
-import project.repositories.IUserRepository;
-import project.repositories.UserRepositoryJson;
 
 public class Backend {
     private final IUserRepository userRepo;

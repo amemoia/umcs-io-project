@@ -5,9 +5,6 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import project.repositories.IGamesRepository;
-import project.repositories.IHeroRepository;
-
 public class HeroTierlist {
     private final Map<String, List<Hero>> ranks = new LinkedHashMap<>();
 
