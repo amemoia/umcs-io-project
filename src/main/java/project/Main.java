@@ -1,17 +1,17 @@
 package project;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import project.repositories.UserRepositoryJson;
+import project.repositories.GamesRepositoryJson;
+import project.repositories.HeroRepositoryJson;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        UserRepositoryJson userRepo = new UserRepositoryJson("data/users.json");
+        GamesRepositoryJson gameRepo = new GamesRepositoryJson("data/games.json");
+        HeroRepositoryJson heroRepo = new HeroRepositoryJson("data/heroes.json");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        Backend backend = new Backend(userRepo, gameRepo, heroRepo);
+        Menu menu = new Menu(backend);
+        menu.display();
     }
 }
