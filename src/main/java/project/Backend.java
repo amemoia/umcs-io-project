@@ -7,6 +7,7 @@ import project.models.Game;
 import project.models.Hero;
 import project.models.HeroTierlist;
 import project.models.User;
+import project.repositories.*;
 
 public class Backend {
     private final IUserRepository userRepo;
