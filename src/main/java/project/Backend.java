@@ -16,7 +16,11 @@ public class Backend {
     private final HeroTierlist heroTierlist;
 
     public Backend() {
-        this(new UserRepositoryJson(), new GamesRepositoryJson(), new HeroRepositoryJson());
+        this(
+                new UserRepositoryJson("data/users.json"),
+                new GamesRepositoryJson("data/games.json"),
+                new HeroRepositoryJson("data/heroes.json")
+        );
     }
 
     public Backend(IUserRepository userRepo, IGamesRepository gameRepo, IHeroRepository heroRepo) {
@@ -31,7 +35,8 @@ public class Backend {
     }
 
     public User register(String username, String password) {
-        return userRepo.addUser(username, password);
+        userRepo.addUser(username, password);
+        return userRepo.authenticate(username, password);
     }
 
     public void importGames(List<Game> games) {
@@ -42,7 +47,7 @@ public class Backend {
     public void importSampleGames(int count) {
         List<Game> sampleGames = new ArrayList<>();
         for (int i = 0; i < count; i++) {
-            sampleGames.add(Game.sample(i + gameRepo.getGameCount() + 1));
+            sampleGames.add(new Game(i + gameRepo.getGameCount() + 1, new java.util.HashMap<>(), project.models.ETeam.None));
         }
         importGames(sampleGames);
     }

@@ -1,5 +1,8 @@
 package project.models;
 
+import project.repositories.IGamesRepository;
+import project.repositories.IHeroRepository;
+
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -16,10 +19,10 @@ public class HeroTierlist {
         Map<String, HeroStats> statsByHero = new LinkedHashMap<>();
 
         for (Game game : gamesRepo.getGames()) {
-            for (Hero hero : game.getPlayers().values()) {
-                HeroStats stats = statsByHero.computeIfAbsent(hero.getName(), ignored -> new HeroStats());
+            for (Hero hero : game.players.values()) {
+                HeroStats stats = statsByHero.computeIfAbsent(hero.name, ignored -> new HeroStats());
                 stats.totalGames++;
-                if (game.getWinningTeam() == ETeam.HiddenKing) {
+                if (game.winningTeam == ETeam.HiddenKing) {
                     stats.wins++;
                 }
             }
@@ -35,21 +38,16 @@ public class HeroTierlist {
             Hero hero = heroRepo.getHeroes().computeIfAbsent(entry.getKey(), Hero::new);
             HeroStats stats = entry.getValue();
             hero.updateStats(stats.wins, stats.totalGames - stats.wins);
-            ranks.get(rankFor(hero.getWinRate())).add(hero);
+            double winRate = stats.totalGames == 0 ? 0 : (double) stats.wins / stats.totalGames;
+            ranks.get(rankFor(winRate)).add(hero);
             heroRepo.updateHero(hero);
         }
     }
 
     private String rankFor(double winRate) {
-        if (winRate >= 0.75) {
-            return "S";
-        }
-        if (winRate >= 0.60) {
-            return "A";
-        }
-        if (winRate >= 0.45) {
-            return "B";
-        }
+        if (winRate >= 0.75) return "S";
+        if (winRate >= 0.60) return "A";
+        if (winRate >= 0.45) return "B";
         return "C";
     }
 
