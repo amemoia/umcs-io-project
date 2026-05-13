@@ -6,7 +6,7 @@ package project.repositories;
 //  @ Project : Untitled
 //  @ File Name : project.repositories.GamesRepositoryJson.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
@@ -15,7 +15,6 @@ import org.json.JSONObject;
 import org.json.JSONTokener;
 import project.models.ETeam;
 import project.models.Game;
-import project.models.Hero;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -27,8 +26,8 @@ import java.util.List;
 import java.util.Map;
 
 public class GamesRepositoryJson implements IGamesRepository {
-    private Map<Integer, Game> games = new HashMap<>();
-    private String filePath;
+    private final Map<Integer, Game> games = new HashMap<>();
+    private final String filePath;
 
     public GamesRepositoryJson(String filePath) {
         this.filePath = filePath;
@@ -41,25 +40,34 @@ public class GamesRepositoryJson implements IGamesRepository {
             return;
         }
         try (FileInputStream fis = new FileInputStream(file)) {
-            JSONArray array = new JSONArray(new JSONTokener(fis));
-            for (int i = 0; i < array.length(); i++) {
-                JSONObject obj = array.getJSONObject(i);
+            JSONTokener tokener = new JSONTokener(fis);
+            if (!tokener.more()) {
+                return;
+            }
+            JSONObject root = new JSONObject(tokener);
+            for (String matchIDKey : root.keySet()) {
+                JSONObject obj = root.getJSONObject(matchIDKey);
                 Game game = new Game();
                 game.matchID = obj.getInt("matchID");
                 game.winningTeam = ETeam.valueOf(obj.getString("winningTeam"));
                 
-                JSONObject playersObj = obj.getJSONObject("players");
-                Map<String, Hero> players = new HashMap<>();
-                for (String key : playersObj.keySet()) {
-                    JSONObject heroObj = playersObj.getJSONObject(key);
-                    Hero hero = new Hero();
-                    hero.name = heroObj.getString("name");
-                    hero.setWins(heroObj.getInt("wins"));
-                    hero.setTotalGames(heroObj.getInt("totalGames"));
-                    if (heroObj.has("adminComment")) {
-                        hero.adminComment = heroObj.getString("adminComment");
+                Map<String, Game.PlayerStats> players = new HashMap<>();
+                if (obj.has("teams")) {
+                    JSONObject teamsObj = obj.getJSONObject("teams");
+                    for (String teamName : teamsObj.keySet()) {
+                        ETeam team = ETeam.valueOf(teamName);
+                        JSONObject teamPlayers = teamsObj.getJSONObject(teamName);
+                        for (String username : teamPlayers.keySet()) {
+                            JSONObject statsObj = teamPlayers.getJSONObject(username);
+                            Game.PlayerStats stats = new Game.PlayerStats();
+                            stats.heroName = statsObj.getString("heroName");
+                            stats.kills = statsObj.getInt("kills");
+                            stats.deaths = statsObj.getInt("deaths");
+                            stats.assists = statsObj.getInt("assists");
+                            stats.team = team;
+                            players.put(username, stats);
+                        }
                     }
-                    players.put(key, hero);
                 }
                 game.players = players;
                 games.put(game.matchID, game);
@@ -70,27 +78,35 @@ public class GamesRepositoryJson implements IGamesRepository {
     }
 
     private void save() {
-        JSONArray array = new JSONArray();
+        JSONObject root = new JSONObject();
         for (Game game : games.values()) {
             JSONObject obj = new JSONObject();
             obj.put("matchID", game.matchID);
             obj.put("winningTeam", game.winningTeam.name());
             
-            JSONObject playersObj = new JSONObject();
-            for (Map.Entry<String, Hero> entry : game.players.entrySet()) {
-                Hero hero = entry.getValue();
-                JSONObject heroObj = new JSONObject();
-                heroObj.put("name", hero.name);
-                heroObj.put("wins", hero.getWins());
-                heroObj.put("totalGames", hero.getTotalGames());
-                heroObj.put("adminComment", hero.adminComment);
-                playersObj.put(entry.getKey(), heroObj);
+            JSONObject teamsObj = new JSONObject();
+            teamsObj.put("HiddenKing", new JSONObject());
+            teamsObj.put("ArchMother", new JSONObject());
+            
+            for (Map.Entry<String, Game.PlayerStats> entry : game.players.entrySet()) {
+                Game.PlayerStats stats = entry.getValue();
+                JSONObject statsObj = new JSONObject();
+                statsObj.put("heroName", stats.heroName);
+                statsObj.put("kills", stats.kills);
+                statsObj.put("deaths", stats.deaths);
+                statsObj.put("assists", stats.assists);
+                
+                String teamName = stats.team.name();
+                if (!teamsObj.has(teamName)) {
+                    teamsObj.put(teamName, new JSONObject());
+                }
+                teamsObj.getJSONObject(teamName).put(entry.getKey(), statsObj);
             }
-            obj.put("players", playersObj);
-            array.put(obj);
+            obj.put("teams", teamsObj);
+            root.put(String.valueOf(game.matchID), obj);
         }
         try (FileWriter writer = new FileWriter(filePath)) {
-            writer.write(array.toString(4));
+            writer.write(root.toString(4));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -112,5 +128,11 @@ public class GamesRepositoryJson implements IGamesRepository {
     @Override
     public int getGameCount() {
         return games.size();
+    }
+
+    @Override
+    public void clear() {
+        games.clear();
+        save();
     }
 }

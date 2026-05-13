@@ -5,13 +5,13 @@ package project.repositories;//
 //  @ Project : Untitled
 //  @ File Name : project.repositories.UserRepositoryJson.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
-import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONTokener;
+import org.mindrot.jbcrypt.BCrypt;
 import project.models.User;
 
 import java.io.File;
@@ -36,9 +36,13 @@ public class UserRepositoryJson implements IUserRepository {
             return;
         }
         try (FileInputStream fis = new FileInputStream(file)) {
-            JSONArray array = new JSONArray(new JSONTokener(fis));
-            for (int i = 0; i < array.length(); i++) {
-                JSONObject obj = array.getJSONObject(i);
+            JSONTokener tokener = new JSONTokener(fis);
+            if (!tokener.more()) {
+                return;
+            }
+            JSONObject root = new JSONObject(tokener);
+            for (String key : root.keySet()) {
+                JSONObject obj = root.getJSONObject(key);
                 User user = new User(
                         obj.getString("username"),
                         obj.getString("password"),
@@ -53,25 +57,29 @@ public class UserRepositoryJson implements IUserRepository {
     }
 
     private void save() {
-        JSONArray array = new JSONArray();
+        JSONObject root = new JSONObject();
         for (User user : users.values()) {
             JSONObject obj = new JSONObject();
             obj.put("username", user.username);
             obj.put("password", user.getPassword());
             obj.put("id", user.getId());
             obj.put("isAdmin", user.getIsAdmin());
-            array.put(obj);
+            root.put(String.valueOf(user.getId()), obj);
         }
         try (FileWriter writer = new FileWriter(filePath)) {
-            writer.write(array.toString(4));
+            writer.write(root.toString(4));
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     @Override
-    public void addUser(String username, String hashedPassword) {
+    public void addUser(String username, String password) {
+        if (users.containsKey(username)) {
+            return;
+        }
         int nextId = users.size() + 1;
+        String hashedPassword = BCrypt.hashpw(password, BCrypt.gensalt());
         User user = new User(username, hashedPassword, nextId, false);
         users.put(username, user);
         save();
@@ -80,9 +88,22 @@ public class UserRepositoryJson implements IUserRepository {
     @Override
     public User authenticate(String username, String password) {
         User user = users.get(username);
-        if (user != null && user.getPassword().equals(password)) {
+        if (user != null && BCrypt.checkpw(password, user.getPassword())) {
             return user;
         }
         return null;
+    }
+
+    @Override
+    public User getUser(String username) {
+        return users.get(username);
+    }
+
+    @Override
+    public void updateUser(User user) {
+        if (users.containsKey(user.username)) {
+            users.put(user.username, user);
+            save();
+        }
     }
 }

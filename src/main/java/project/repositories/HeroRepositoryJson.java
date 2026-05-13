@@ -6,11 +6,10 @@ package project.repositories;
 //  @ Project : Untitled
 //  @ File Name : project.repositories.HeroRepositoryJson.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
-import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 import project.models.Hero;
@@ -37,16 +36,21 @@ public class HeroRepositoryJson implements IHeroRepository {
             return;
         }
         try (FileInputStream fis = new FileInputStream(file)) {
-            JSONArray array = new JSONArray(new JSONTokener(fis));
-            for (int i = 0; i < array.length(); i++) {
-                JSONObject obj = array.getJSONObject(i);
+            JSONTokener tokener = new JSONTokener(fis);
+            if (!tokener.more()) {
+                return;
+            }
+            JSONObject root = new JSONObject(tokener);
+            for (String key : root.keySet()) {
+                JSONObject obj = root.getJSONObject(key);
                 Hero hero = new Hero();
-                hero.name = obj.getString("name");
+                hero.name = key;
                 hero.setWins(obj.getInt("wins"));
                 hero.setTotalGames(obj.getInt("totalGames"));
-                if (obj.has("adminComment")) {
-                    hero.adminComment = obj.getString("adminComment");
-                }
+                hero.setTotalKills(obj.optInt("totalKills", 0));
+                hero.setTotalDeaths(obj.optInt("totalDeaths", 0));
+                hero.setTotalAssists(obj.optInt("totalAssists", 0));
+                hero.adminComment = obj.optString("adminComment", "");
                 heroes.put(hero.name, hero);
             }
         } catch (IOException e) {
@@ -55,17 +59,19 @@ public class HeroRepositoryJson implements IHeroRepository {
     }
 
     private void save() {
-        JSONArray array = new JSONArray();
+        JSONObject root = new JSONObject();
         for (Hero hero : heroes.values()) {
             JSONObject obj = new JSONObject();
-            obj.put("name", hero.name);
             obj.put("wins", hero.getWins());
             obj.put("totalGames", hero.getTotalGames());
-            obj.put("adminComment", hero.adminComment);
-            array.put(obj);
+            obj.put("totalKills", hero.getTotalKills());
+            obj.put("totalDeaths", hero.getTotalDeaths());
+            obj.put("totalAssists", hero.getTotalAssists());
+            obj.put("adminComment", hero.adminComment != null ? hero.adminComment : "");
+            root.put(hero.name, obj);
         }
         try (FileWriter writer = new FileWriter(filePath)) {
-            writer.write(array.toString(4));
+            writer.write(root.toString(4));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -79,6 +85,12 @@ public class HeroRepositoryJson implements IHeroRepository {
     @Override
     public void updateHero(Hero hero) {
         heroes.put(hero.name, hero);
+        save();
+    }
+
+    @Override
+    public void clear() {
+        heroes.clear();
         save();
     }
 }

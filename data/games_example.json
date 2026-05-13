@@ -1,0 +1,4102 @@
+{
+    "44": {
+        "matchID": 44,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "AimBot": {
+                    "heroName": "Lady Geist",
+                    "kills": 11,
+                    "deaths": 12,
+                    "assists": 13
+                },
+                "Mann Co.": {
+                    "heroName": "Bebop",
+                    "kills": 15,
+                    "deaths": 10,
+                    "assists": 6
+                },
+                "10001011101": {
+                    "heroName": "Paradox",
+                    "kills": 7,
+                    "deaths": 10,
+                    "assists": 0
+                },
+                "Delicious Cake": {
+                    "heroName": "Abrams",
+                    "kills": 14,
+                    "deaths": 1,
+                    "assists": 7
+                },
+                "THEM": {
+                    "heroName": "Grey Talon",
+                    "kills": 15,
+                    "deaths": 0,
+                    "assists": 29
+                },
+                "MoreGun": {
+                    "heroName": "McGinnis",
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 25
+                }
+            },
+            "ArchMother": {
+                "RageQuit": {
+                    "heroName": "Haze",
+                    "kills": 2,
+                    "deaths": 14,
+                    "assists": 7
+                },
+                "TAAAAANK!": {
+                    "heroName": "Pocket",
+                    "kills": 18,
+                    "deaths": 2,
+                    "assists": 15
+                },
+                "Black Mesa": {
+                    "heroName": "Mo & Krill",
+                    "kills": 1,
+                    "deaths": 4,
+                    "assists": 30
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Ivy",
+                    "kills": 6,
+                    "deaths": 8,
+                    "assists": 5
+                },
+                "SomeDude": {
+                    "heroName": "Lash",
+                    "kills": 9,
+                    "deaths": 8,
+                    "assists": 30
+                },
+                "GLaDOS": {
+                    "heroName": "Wraith",
+                    "kills": 19,
+                    "deaths": 2,
+                    "assists": 24
+                }
+            }
+        }
+    },
+    "45": {
+        "matchID": 45,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "IvanTheSpaceBiker": {
+                    "heroName": "Lady Geist",
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 20
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Paradox",
+                    "kills": 15,
+                    "deaths": 8,
+                    "assists": 17
+                },
+                "Humans Are Weak": {
+                    "heroName": "Bebop",
+                    "kills": 8,
+                    "deaths": 11,
+                    "assists": 22
+                },
+                "C++": {
+                    "heroName": "Kelvin",
+                    "kills": 3,
+                    "deaths": 6,
+                    "assists": 28
+                },
+                "The Administrator": {
+                    "heroName": "McGinnis",
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 1
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Grey Talon",
+                    "kills": 6,
+                    "deaths": 8,
+                    "assists": 3
+                }
+            },
+            "ArchMother": {
+                "Chucklenuts": {
+                    "heroName": "Haze",
+                    "kills": 0,
+                    "deaths": 3,
+                    "assists": 9
+                },
+                "BoomerBile": {
+                    "heroName": "Mo & Krill",
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 22
+                },
+                "Dog": {
+                    "heroName": "Dynamo",
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 29
+                },
+                "CrySomeMore": {
+                    "heroName": "Ivy",
+                    "kills": 2,
+                    "deaths": 1,
+                    "assists": 6
+                },
+                "Archimedes!": {
+                    "heroName": "Yamato",
+                    "kills": 7,
+                    "deaths": 12,
+                    "assists": 10
+                },
+                "GENTLE MANNE of LEISURE": {
+                    "heroName": "Wraith",
+                    "kills": 12,
+                    "deaths": 8,
+                    "assists": 0
+                }
+            }
+        }
+    },
+    "46": {
+        "matchID": 46,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Ribs Grow Back": {
+                    "heroName": "Lady Geist",
+                    "kills": 4,
+                    "deaths": 5,
+                    "assists": 17
+                },
+                "CrySomeMore": {
+                    "heroName": "Paradox",
+                    "kills": 16,
+                    "deaths": 9,
+                    "assists": 17
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Bebop",
+                    "kills": 3,
+                    "deaths": 13,
+                    "assists": 0
+                },
+                "I LIVE!": {
+                    "heroName": "Viscous",
+                    "kills": 0,
+                    "deaths": 3,
+                    "assists": 26
+                },
+                "The Administrator": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 5,
+                    "assists": 1
+                },
+                "0xDEADBEEF": {
+                    "heroName": "McGinnis",
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 22
+                }
+            },
+            "ArchMother": {
+                "CryBaby": {
+                    "heroName": "Haze",
+                    "kills": 16,
+                    "deaths": 13,
+                    "assists": 20
+                },
+                "AimBot": {
+                    "heroName": "Pocket",
+                    "kills": 11,
+                    "deaths": 9,
+                    "assists": 13
+                },
+                "The Combine": {
+                    "heroName": "Infernus",
+                    "kills": 18,
+                    "deaths": 6,
+                    "assists": 17
+                },
+                "Crowbar": {
+                    "heroName": "Ivy",
+                    "kills": 12,
+                    "deaths": 0,
+                    "assists": 11
+                },
+                "Herr Doktor": {
+                    "heroName": "Yamato",
+                    "kills": 15,
+                    "deaths": 4,
+                    "assists": 15
+                },
+                "HI THERE": {
+                    "heroName": "Wraith",
+                    "kills": 9,
+                    "deaths": 9,
+                    "assists": 27
+                }
+            }
+        }
+    },
+    "47": {
+        "matchID": 47,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Crowbar": {
+                    "heroName": "Paradox",
+                    "kills": 5,
+                    "deaths": 4,
+                    "assists": 19
+                },
+                "Black Mesa": {
+                    "heroName": "Viscous",
+                    "kills": 19,
+                    "deaths": 10,
+                    "assists": 22
+                },
+                "Hostage": {
+                    "heroName": "Kelvin",
+                    "kills": 6,
+                    "deaths": 13,
+                    "assists": 0
+                },
+                "ThatGuy": {
+                    "heroName": "Haze",
+                    "kills": 20,
+                    "deaths": 10,
+                    "assists": 4
+                },
+                "Dog": {
+                    "heroName": "Pocket",
+                    "kills": 10,
+                    "deaths": 8,
+                    "assists": 20
+                },
+                "SMELLY UNFORTUNATE": {
+                    "heroName": "Vindicta",
+                    "kills": 15,
+                    "deaths": 4,
+                    "assists": 29
+                }
+            },
+            "ArchMother": {
+                "0xDEADBEEF": {
+                    "heroName": "Mo & Krill",
+                    "kills": 1,
+                    "deaths": 3,
+                    "assists": 27
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Seven",
+                    "kills": 6,
+                    "deaths": 13,
+                    "assists": 12
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Dynamo",
+                    "kills": 18,
+                    "deaths": 9,
+                    "assists": 26
+                },
+                "HI THERE": {
+                    "heroName": "Ivy",
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 12
+                },
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Yamato",
+                    "kills": 1,
+                    "deaths": 13,
+                    "assists": 15
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Wraith",
+                    "kills": 5,
+                    "deaths": 5,
+                    "assists": 30
+                }
+            }
+        }
+    },
+    "48": {
+        "matchID": 48,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "GLaDOS": {
+                    "heroName": "Lady Geist",
+                    "kills": 6,
+                    "deaths": 2,
+                    "assists": 0
+                },
+                "AimBot": {
+                    "heroName": "Paradox",
+                    "kills": 9,
+                    "deaths": 13,
+                    "assists": 2
+                },
+                "Mann Co.": {
+                    "heroName": "Viscous",
+                    "kills": 20,
+                    "deaths": 9,
+                    "assists": 26
+                },
+                "The Freeman": {
+                    "heroName": "McGinnis",
+                    "kills": 7,
+                    "deaths": 11,
+                    "assists": 20
+                },
+                "THEM": {
+                    "heroName": "Warden",
+                    "kills": 17,
+                    "deaths": 3,
+                    "assists": 28
+                },
+                "H@XX0RZ": {
+                    "heroName": "Haze",
+                    "kills": 3,
+                    "deaths": 2,
+                    "assists": 28
+                }
+            },
+            "ArchMother": {
+                "DeadHead": {
+                    "heroName": "Pocket",
+                    "kills": 5,
+                    "deaths": 8,
+                    "assists": 0
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Vindicta",
+                    "kills": 10,
+                    "deaths": 5,
+                    "assists": 7
+                },
+                "Kaboom!": {
+                    "heroName": "Mo & Krill",
+                    "kills": 15,
+                    "deaths": 8,
+                    "assists": 0
+                },
+                "SomeDude": {
+                    "heroName": "Ivy",
+                    "kills": 0,
+                    "deaths": 3,
+                    "assists": 17
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Wraith",
+                    "kills": 4,
+                    "deaths": 14,
+                    "assists": 13
+                },
+                "HI THERE": {
+                    "heroName": "Lash",
+                    "kills": 11,
+                    "deaths": 4,
+                    "assists": 16
+                }
+            }
+        }
+    },
+    "49": {
+        "matchID": 49,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Soulless": {
+                    "heroName": "Bebop",
+                    "kills": 14,
+                    "deaths": 1,
+                    "assists": 27
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Grey Talon",
+                    "kills": 1,
+                    "deaths": 15,
+                    "assists": 19
+                },
+                "MoreGun": {
+                    "heroName": "Warden",
+                    "kills": 19,
+                    "deaths": 13,
+                    "assists": 5
+                },
+                "Zepheniah Mann": {
+                    "heroName": "Pocket",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 1
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Infernus",
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 4
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Vindicta",
+                    "kills": 8,
+                    "deaths": 4,
+                    "assists": 6
+                }
+            },
+            "ArchMother": {
+                "Gentlemanne of Leisure": {
+                    "heroName": "Seven",
+                    "kills": 19,
+                    "deaths": 2,
+                    "assists": 29
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Mo & Krill",
+                    "kills": 11,
+                    "deaths": 10,
+                    "assists": 18
+                },
+                "Chell": {
+                    "heroName": "Dynamo",
+                    "kills": 15,
+                    "deaths": 7,
+                    "assists": 20
+                },
+                "GENTLE MANNE of LEISURE": {
+                    "heroName": "Ivy",
+                    "kills": 17,
+                    "deaths": 5,
+                    "assists": 13
+                },
+                "THEM": {
+                    "heroName": "Yamato",
+                    "kills": 10,
+                    "deaths": 12,
+                    "assists": 22
+                },
+                "The Combine": {
+                    "heroName": "Lash",
+                    "kills": 4,
+                    "deaths": 1,
+                    "assists": 4
+                }
+            }
+        }
+    },
+    "50": {
+        "matchID": 50,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Mentlegen": {
+                    "heroName": "Paradox",
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 6
+                },
+                "TAAAAANK!": {
+                    "heroName": "McGinnis",
+                    "kills": 8,
+                    "deaths": 12,
+                    "assists": 1
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Kelvin",
+                    "kills": 8,
+                    "deaths": 9,
+                    "assists": 2
+                },
+                "I LIVE!": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 9,
+                    "assists": 1
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Pocket",
+                    "kills": 4,
+                    "deaths": 15,
+                    "assists": 15
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Infernus",
+                    "kills": 2,
+                    "deaths": 7,
+                    "assists": 30
+                }
+            },
+            "ArchMother": {
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Vindicta",
+                    "kills": 6,
+                    "deaths": 4,
+                    "assists": 30
+                },
+                "CEDA": {
+                    "heroName": "Mo & Krill",
+                    "kills": 11,
+                    "deaths": 11,
+                    "assists": 12
+                },
+                "Crazed Gunman": {
+                    "heroName": "Ivy",
+                    "kills": 9,
+                    "deaths": 13,
+                    "assists": 9
+                },
+                "DeadHead": {
+                    "heroName": "Yamato",
+                    "kills": 9,
+                    "deaths": 11,
+                    "assists": 27
+                },
+                "Poopy Joe": {
+                    "heroName": "Wraith",
+                    "kills": 12,
+                    "deaths": 8,
+                    "assists": 8
+                },
+                "AmNot": {
+                    "heroName": "Lash",
+                    "kills": 19,
+                    "deaths": 11,
+                    "assists": 22
+                }
+            }
+        }
+    },
+    "10": {
+        "matchID": 10,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Delicious Cake": {
+                    "heroName": "Lady Geist",
+                    "kills": 14,
+                    "deaths": 7,
+                    "assists": 28
+                },
+                "Mann Co.": {
+                    "heroName": "Paradox",
+                    "kills": 8,
+                    "deaths": 10,
+                    "assists": 23
+                },
+                "ThatGuy": {
+                    "heroName": "Bebop",
+                    "kills": 12,
+                    "deaths": 0,
+                    "assists": 8
+                },
+                "Kill Me": {
+                    "heroName": "Grey Talon",
+                    "kills": 15,
+                    "deaths": 6,
+                    "assists": 16
+                },
+                "The Administrator": {
+                    "heroName": "Kelvin",
+                    "kills": 19,
+                    "deaths": 4,
+                    "assists": 5
+                },
+                "SMELLY UNFORTUNATE": {
+                    "heroName": "McGinnis",
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 18
+                }
+            },
+            "ArchMother": {
+                "Hat-Wearing MAN": {
+                    "heroName": "Warden",
+                    "kills": 6,
+                    "deaths": 3,
+                    "assists": 23
+                },
+                "Freakin' Unbelievable": {
+                    "heroName": "Haze",
+                    "kills": 18,
+                    "deaths": 4,
+                    "assists": 1
+                },
+                "GENTLE MANNE of LEISURE": {
+                    "heroName": "Vindicta",
+                    "kills": 3,
+                    "deaths": 5,
+                    "assists": 21
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Dynamo",
+                    "kills": 1,
+                    "deaths": 11,
+                    "assists": 15
+                },
+                "Soulless": {
+                    "heroName": "Ivy",
+                    "kills": 5,
+                    "deaths": 11,
+                    "assists": 17
+                },
+                "AimBot": {
+                    "heroName": "Yamato",
+                    "kills": 0,
+                    "deaths": 14,
+                    "assists": 17
+                }
+            }
+        }
+    },
+    "11": {
+        "matchID": 11,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "GutsAndGlory!": {
+                    "heroName": "Lady Geist",
+                    "kills": 1,
+                    "deaths": 15,
+                    "assists": 14
+                },
+                "Nobody": {
+                    "heroName": "Paradox",
+                    "kills": 0,
+                    "deaths": 11,
+                    "assists": 13
+                },
+                "Mann Co.": {
+                    "heroName": "Bebop",
+                    "kills": 8,
+                    "deaths": 15,
+                    "assists": 5
+                },
+                "Poopy Joe": {
+                    "heroName": "Viscous",
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 23
+                },
+                "Still Alive": {
+                    "heroName": "Abrams",
+                    "kills": 7,
+                    "deaths": 2,
+                    "assists": 24
+                },
+                "Delicious Cake": {
+                    "heroName": "Grey Talon",
+                    "kills": 2,
+                    "deaths": 8,
+                    "assists": 13
+                }
+            },
+            "ArchMother": {
+                "Mentlegen": {
+                    "heroName": "McGinnis",
+                    "kills": 12,
+                    "deaths": 6,
+                    "assists": 5
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "Haze",
+                    "kills": 19,
+                    "deaths": 5,
+                    "assists": 1
+                },
+                "Force of Nature": {
+                    "heroName": "Mo & Krill",
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 21
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Dynamo",
+                    "kills": 3,
+                    "deaths": 14,
+                    "assists": 26
+                },
+                "Kill Me": {
+                    "heroName": "Wraith",
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 9
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Yamato",
+                    "kills": 9,
+                    "deaths": 3,
+                    "assists": 28
+                }
+            }
+        }
+    },
+    "12": {
+        "matchID": 12,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Pow!": {
+                    "heroName": "Lady Geist",
+                    "kills": 5,
+                    "deaths": 3,
+                    "assists": 25
+                },
+                "Dog": {
+                    "heroName": "Abrams",
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 14
+                },
+                "Ze Ubermensch": {
+                    "heroName": "Kelvin",
+                    "kills": 11,
+                    "deaths": 11,
+                    "assists": 21
+                },
+                "Chucklenuts": {
+                    "heroName": "Grey Talon",
+                    "kills": 16,
+                    "deaths": 10,
+                    "assists": 26
+                },
+                "0xDEADBEEF": {
+                    "heroName": "McGinnis",
+                    "kills": 20,
+                    "deaths": 2,
+                    "assists": 29
+                },
+                "AimBot": {
+                    "heroName": "Haze",
+                    "kills": 9,
+                    "deaths": 11,
+                    "assists": 27
+                }
+            },
+            "ArchMother": {
+                "Chell": {
+                    "heroName": "Pocket",
+                    "kills": 0,
+                    "deaths": 13,
+                    "assists": 27
+                },
+                "CrySomeMore": {
+                    "heroName": "Seven",
+                    "kills": 11,
+                    "deaths": 2,
+                    "assists": 4
+                },
+                "H@XX0RZ": {
+                    "heroName": "Ivy",
+                    "kills": 15,
+                    "deaths": 10,
+                    "assists": 16
+                },
+                "HI THERE": {
+                    "heroName": "Wraith",
+                    "kills": 17,
+                    "deaths": 6,
+                    "assists": 8
+                },
+                "BoomerBile": {
+                    "heroName": "Lash",
+                    "kills": 11,
+                    "deaths": 9,
+                    "assists": 21
+                },
+                "Target Practice": {
+                    "heroName": "Yamato",
+                    "kills": 19,
+                    "deaths": 9,
+                    "assists": 5
+                }
+            }
+        }
+    },
+    "13": {
+        "matchID": 13,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Pow!": {
+                    "heroName": "Paradox",
+                    "kills": 15,
+                    "deaths": 1,
+                    "assists": 17
+                },
+                "C++": {
+                    "heroName": "Viscous",
+                    "kills": 14,
+                    "deaths": 5,
+                    "assists": 25
+                },
+                "Archimedes!": {
+                    "heroName": "Abrams",
+                    "kills": 4,
+                    "deaths": 3,
+                    "assists": 10
+                },
+                "Kill Me": {
+                    "heroName": "Kelvin",
+                    "kills": 7,
+                    "deaths": 1,
+                    "assists": 26
+                },
+                "Mentlegen": {
+                    "heroName": "Haze",
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 7
+                },
+                "Freakin' Unbelievable": {
+                    "heroName": "Pocket",
+                    "kills": 3,
+                    "deaths": 14,
+                    "assists": 22
+                }
+            },
+            "ArchMother": {
+                "Nobody": {
+                    "heroName": "Infernus",
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 4
+                },
+                "I LIVE!": {
+                    "heroName": "Vindicta",
+                    "kills": 3,
+                    "deaths": 15,
+                    "assists": 17
+                },
+                "LOS LOS LOS": {
+                    "heroName": "Dynamo",
+                    "kills": 8,
+                    "deaths": 1,
+                    "assists": 15
+                },
+                "Ze Ubermensch": {
+                    "heroName": "Mo & Krill",
+                    "kills": 6,
+                    "deaths": 14,
+                    "assists": 19
+                },
+                "Divide by Zero": {
+                    "heroName": "Ivy",
+                    "kills": 12,
+                    "deaths": 13,
+                    "assists": 9
+                },
+                "Me": {
+                    "heroName": "Wraith",
+                    "kills": 6,
+                    "deaths": 3,
+                    "assists": 2
+                }
+            }
+        }
+    },
+    "14": {
+        "matchID": 14,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Divide by Zero": {
+                    "heroName": "Lady Geist",
+                    "kills": 9,
+                    "deaths": 6,
+                    "assists": 30
+                },
+                "Delicious Cake": {
+                    "heroName": "Bebop",
+                    "kills": 15,
+                    "deaths": 1,
+                    "assists": 30
+                },
+                "Nobody": {
+                    "heroName": "Abrams",
+                    "kills": 12,
+                    "deaths": 5,
+                    "assists": 9
+                },
+                "SomeDude": {
+                    "heroName": "McGinnis",
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 26
+                },
+                "Still Alive": {
+                    "heroName": "Haze",
+                    "kills": 14,
+                    "deaths": 2,
+                    "assists": 5
+                },
+                "Chell": {
+                    "heroName": "Pocket",
+                    "kills": 0,
+                    "deaths": 15,
+                    "assists": 3
+                }
+            },
+            "ArchMother": {
+                "Someone Else": {
+                    "heroName": "Vindicta",
+                    "kills": 11,
+                    "deaths": 4,
+                    "assists": 17
+                },
+                "The Combine": {
+                    "heroName": "Mo & Krill",
+                    "kills": 20,
+                    "deaths": 6,
+                    "assists": 24
+                },
+                "DeadHead": {
+                    "heroName": "Dynamo",
+                    "kills": 17,
+                    "deaths": 1,
+                    "assists": 29
+                },
+                "SMELLY UNFORTUNATE": {
+                    "heroName": "Seven",
+                    "kills": 10,
+                    "deaths": 3,
+                    "assists": 8
+                },
+                "Hostage": {
+                    "heroName": "Wraith",
+                    "kills": 11,
+                    "deaths": 2,
+                    "assists": 13
+                },
+                "The G-Man": {
+                    "heroName": "Yamato",
+                    "kills": 13,
+                    "deaths": 10,
+                    "assists": 11
+                }
+            }
+        }
+    },
+    "15": {
+        "matchID": 15,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Black Mesa": {
+                    "heroName": "Lady Geist",
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 9
+                },
+                "Force of Nature": {
+                    "heroName": "Paradox",
+                    "kills": 14,
+                    "deaths": 7,
+                    "assists": 6
+                },
+                "WITCH": {
+                    "heroName": "Bebop",
+                    "kills": 17,
+                    "deaths": 4,
+                    "assists": 7
+                },
+                "SMELLY UNFORTUNATE": {
+                    "heroName": "Viscous",
+                    "kills": 10,
+                    "deaths": 3,
+                    "assists": 19
+                },
+                "RageQuit": {
+                    "heroName": "Warden",
+                    "kills": 3,
+                    "deaths": 1,
+                    "assists": 22
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Infernus",
+                    "kills": 1,
+                    "deaths": 8,
+                    "assists": 11
+                }
+            },
+            "ArchMother": {
+                "Saxton Hale": {
+                    "heroName": "Pocket",
+                    "kills": 7,
+                    "deaths": 13,
+                    "assists": 15
+                },
+                "Divide by Zero": {
+                    "heroName": "Dynamo",
+                    "kills": 18,
+                    "deaths": 4,
+                    "assists": 23
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Ivy",
+                    "kills": 11,
+                    "deaths": 5,
+                    "assists": 11
+                },
+                "Delicious Cake": {
+                    "heroName": "Wraith",
+                    "kills": 2,
+                    "deaths": 0,
+                    "assists": 5
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Yamato",
+                    "kills": 4,
+                    "deaths": 12,
+                    "assists": 22
+                },
+                "Kill Me": {
+                    "heroName": "Lash",
+                    "kills": 3,
+                    "deaths": 2,
+                    "assists": 3
+                }
+            }
+        }
+    },
+    "16": {
+        "matchID": 16,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Lady Geist",
+                    "kills": 11,
+                    "deaths": 13,
+                    "assists": 26
+                },
+                "GLaDOS": {
+                    "heroName": "Paradox",
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 18
+                },
+                "AimBot": {
+                    "heroName": "Viscous",
+                    "kills": 0,
+                    "deaths": 6,
+                    "assists": 13
+                },
+                "Soulless": {
+                    "heroName": "Abrams",
+                    "kills": 14,
+                    "deaths": 3,
+                    "assists": 23
+                },
+                "Herr Doktor": {
+                    "heroName": "Grey Talon",
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 23
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Warden",
+                    "kills": 14,
+                    "deaths": 6,
+                    "assists": 18
+                }
+            },
+            "ArchMother": {
+                "Zepheniah Mann": {
+                    "heroName": "Haze",
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 21
+                },
+                "AmNot": {
+                    "heroName": "Infernus",
+                    "kills": 8,
+                    "deaths": 15,
+                    "assists": 16
+                },
+                "NotMe": {
+                    "heroName": "Pocket",
+                    "kills": 14,
+                    "deaths": 12,
+                    "assists": 14
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Vindicta",
+                    "kills": 9,
+                    "deaths": 5,
+                    "assists": 28
+                },
+                "Totally Not A Bot": {
+                    "heroName": "Seven",
+                    "kills": 0,
+                    "deaths": 7,
+                    "assists": 12
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Lash",
+                    "kills": 17,
+                    "deaths": 13,
+                    "assists": 13
+                }
+            }
+        }
+    },
+    "17": {
+        "matchID": 17,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "MindlessElectrons": {
+                    "heroName": "Bebop",
+                    "kills": 17,
+                    "deaths": 9,
+                    "assists": 4
+                },
+                "trigger_hurt": {
+                    "heroName": "Viscous",
+                    "kills": 19,
+                    "deaths": 14,
+                    "assists": 5
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Abrams",
+                    "kills": 20,
+                    "deaths": 6,
+                    "assists": 10
+                },
+                "Cannon Fodder": {
+                    "heroName": "Grey Talon",
+                    "kills": 19,
+                    "deaths": 10,
+                    "assists": 3
+                },
+                "Chell": {
+                    "heroName": "Warden",
+                    "kills": 6,
+                    "deaths": 5,
+                    "assists": 17
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Pocket",
+                    "kills": 3,
+                    "deaths": 10,
+                    "assists": 3
+                }
+            },
+            "ArchMother": {
+                "Target Practice": {
+                    "heroName": "Vindicta",
+                    "kills": 12,
+                    "deaths": 13,
+                    "assists": 8
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Dynamo",
+                    "kills": 2,
+                    "deaths": 0,
+                    "assists": 13
+                },
+                "Mega Baboon": {
+                    "heroName": "Seven",
+                    "kills": 8,
+                    "deaths": 1,
+                    "assists": 15
+                },
+                "Kill Me": {
+                    "heroName": "Mo & Krill",
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 11
+                },
+                "Companion Cube": {
+                    "heroName": "Ivy",
+                    "kills": 0,
+                    "deaths": 6,
+                    "assists": 1
+                },
+                "The G-Man": {
+                    "heroName": "Wraith",
+                    "kills": 3,
+                    "deaths": 4,
+                    "assists": 25
+                }
+            }
+        }
+    },
+    "18": {
+        "matchID": 18,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Numnutz": {
+                    "heroName": "Paradox",
+                    "kills": 19,
+                    "deaths": 8,
+                    "assists": 9
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Bebop",
+                    "kills": 19,
+                    "deaths": 2,
+                    "assists": 12
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Abrams",
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 30
+                },
+                "Mentlegen": {
+                    "heroName": "Warden",
+                    "kills": 3,
+                    "deaths": 15,
+                    "assists": 23
+                },
+                "BeepBeepBoop": {
+                    "heroName": "McGinnis",
+                    "kills": 3,
+                    "deaths": 11,
+                    "assists": 17
+                },
+                "Chell": {
+                    "heroName": "Pocket",
+                    "kills": 10,
+                    "deaths": 15,
+                    "assists": 19
+                }
+            },
+            "ArchMother": {
+                "RageQuit": {
+                    "heroName": "Vindicta",
+                    "kills": 6,
+                    "deaths": 0,
+                    "assists": 25
+                },
+                "DeadHead": {
+                    "heroName": "Dynamo",
+                    "kills": 12,
+                    "deaths": 5,
+                    "assists": 28
+                },
+                "H@XX0RZ": {
+                    "heroName": "Mo & Krill",
+                    "kills": 5,
+                    "deaths": 3,
+                    "assists": 29
+                },
+                "Mann Co.": {
+                    "heroName": "Ivy",
+                    "kills": 16,
+                    "deaths": 12,
+                    "assists": 29
+                },
+                "Still Alive": {
+                    "heroName": "Wraith",
+                    "kills": 4,
+                    "deaths": 15,
+                    "assists": 22
+                },
+                "Saxton Hale": {
+                    "heroName": "Lash",
+                    "kills": 19,
+                    "deaths": 1,
+                    "assists": 0
+                }
+            }
+        }
+    },
+    "19": {
+        "matchID": 19,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "H@XX0RZ": {
+                    "heroName": "Lady Geist",
+                    "kills": 10,
+                    "deaths": 3,
+                    "assists": 3
+                },
+                "Divide by Zero": {
+                    "heroName": "Bebop",
+                    "kills": 9,
+                    "deaths": 7,
+                    "assists": 22
+                },
+                "CrySomeMore": {
+                    "heroName": "Viscous",
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 10
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Grey Talon",
+                    "kills": 12,
+                    "deaths": 9,
+                    "assists": 21
+                },
+                "AimBot": {
+                    "heroName": "McGinnis",
+                    "kills": 6,
+                    "deaths": 2,
+                    "assists": 14
+                },
+                "Kaboom!": {
+                    "heroName": "Pocket",
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 28
+                }
+            },
+            "ArchMother": {
+                "The Freeman": {
+                    "heroName": "Vindicta",
+                    "kills": 8,
+                    "deaths": 0,
+                    "assists": 0
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Dynamo",
+                    "kills": 3,
+                    "deaths": 4,
+                    "assists": 20
+                },
+                "Chell": {
+                    "heroName": "Ivy",
+                    "kills": 15,
+                    "deaths": 0,
+                    "assists": 2
+                },
+                "The Combine": {
+                    "heroName": "Lash",
+                    "kills": 16,
+                    "deaths": 1,
+                    "assists": 7
+                },
+                "GLaDOS": {
+                    "heroName": "Wraith",
+                    "kills": 7,
+                    "deaths": 9,
+                    "assists": 18
+                },
+                "The G-Man": {
+                    "heroName": "Yamato",
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 4
+                }
+            }
+        }
+    },
+    "1": {
+        "matchID": 1,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "CEDA": {
+                    "heroName": "Lady Geist",
+                    "kills": 10,
+                    "deaths": 5,
+                    "assists": 26
+                },
+                "CrySomeMore": {
+                    "heroName": "Paradox",
+                    "kills": 0,
+                    "deaths": 5,
+                    "assists": 8
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Bebop",
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 4
+                },
+                "Numnutz": {
+                    "heroName": "Viscous",
+                    "kills": 1,
+                    "deaths": 12,
+                    "assists": 14
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Abrams",
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 19
+                },
+                "The Administrator": {
+                    "heroName": "Grey Talon",
+                    "kills": 13,
+                    "deaths": 9,
+                    "assists": 5
+                }
+            },
+            "ArchMother": {
+                "Ribs Grow Back": {
+                    "heroName": "Kelvin",
+                    "kills": 18,
+                    "deaths": 8,
+                    "assists": 26
+                },
+                "AmNot": {
+                    "heroName": "Haze",
+                    "kills": 3,
+                    "deaths": 5,
+                    "assists": 8
+                },
+                "BoomerBile": {
+                    "heroName": "Infernus",
+                    "kills": 9,
+                    "deaths": 10,
+                    "assists": 18
+                },
+                "The Freeman": {
+                    "heroName": "Vindicta",
+                    "kills": 16,
+                    "deaths": 5,
+                    "assists": 22
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Lash",
+                    "kills": 1,
+                    "deaths": 8,
+                    "assists": 10
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Wraith",
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 29
+                }
+            }
+        }
+    },
+    "2": {
+        "matchID": 2,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "AmNot": {
+                    "heroName": "Lady Geist",
+                    "kills": 7,
+                    "deaths": 10,
+                    "assists": 6
+                },
+                "A Professional With Standards": {
+                    "heroName": "Bebop",
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 30
+                },
+                "Kill Me": {
+                    "heroName": "Paradox",
+                    "kills": 12,
+                    "deaths": 0,
+                    "assists": 29
+                },
+                "Mega Baboon": {
+                    "heroName": "Viscous",
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 26
+                },
+                "THEM": {
+                    "heroName": "Warden",
+                    "kills": 16,
+                    "deaths": 3,
+                    "assists": 28
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Pocket",
+                    "kills": 14,
+                    "deaths": 5,
+                    "assists": 8
+                }
+            },
+            "ArchMother": {
+                "Cannon Fodder": {
+                    "heroName": "Infernus",
+                    "kills": 17,
+                    "deaths": 8,
+                    "assists": 7
+                },
+                "I LIVE!": {
+                    "heroName": "Vindicta",
+                    "kills": 12,
+                    "deaths": 10,
+                    "assists": 17
+                },
+                "The Combine": {
+                    "heroName": "Mo & Krill",
+                    "kills": 8,
+                    "deaths": 6,
+                    "assists": 22
+                },
+                "C++": {
+                    "heroName": "Wraith",
+                    "kills": 7,
+                    "deaths": 1,
+                    "assists": 16
+                },
+                "Someone Else": {
+                    "heroName": "Lash",
+                    "kills": 3,
+                    "deaths": 12,
+                    "assists": 22
+                },
+                "ZAWMBEEZ": {
+                    "heroName": "Yamato",
+                    "kills": 4,
+                    "deaths": 0,
+                    "assists": 18
+                }
+            }
+        }
+    },
+    "3": {
+        "matchID": 3,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "The G-Man": {
+                    "heroName": "Lady Geist",
+                    "kills": 20,
+                    "deaths": 0,
+                    "assists": 16
+                },
+                "Still Alive": {
+                    "heroName": "Viscous",
+                    "kills": 14,
+                    "deaths": 11,
+                    "assists": 17
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Abrams",
+                    "kills": 8,
+                    "deaths": 12,
+                    "assists": 28
+                },
+                "CEDA": {
+                    "heroName": "Warden",
+                    "kills": 6,
+                    "deaths": 12,
+                    "assists": 20
+                },
+                "Hostage": {
+                    "heroName": "Grey Talon",
+                    "kills": 1,
+                    "deaths": 9,
+                    "assists": 7
+                },
+                "Ze Ubermensch": {
+                    "heroName": "Pocket",
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 29
+                }
+            },
+            "ArchMother": {
+                "Chell": {
+                    "heroName": "Vindicta",
+                    "kills": 17,
+                    "deaths": 4,
+                    "assists": 3
+                },
+                "CrySomeMore": {
+                    "heroName": "Seven",
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 4
+                },
+                "Herr Doktor": {
+                    "heroName": "Dynamo",
+                    "kills": 15,
+                    "deaths": 4,
+                    "assists": 16
+                },
+                "Me": {
+                    "heroName": "Ivy",
+                    "kills": 4,
+                    "deaths": 5,
+                    "assists": 11
+                },
+                "MindlessElectrons": {
+                    "heroName": "Yamato",
+                    "kills": 13,
+                    "deaths": 14,
+                    "assists": 25
+                },
+                "DeadHead": {
+                    "heroName": "Wraith",
+                    "kills": 18,
+                    "deaths": 13,
+                    "assists": 25
+                }
+            }
+        }
+    },
+    "4": {
+        "matchID": 4,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "MoreGun": {
+                    "heroName": "Lady Geist",
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 19
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Paradox",
+                    "kills": 12,
+                    "deaths": 4,
+                    "assists": 21
+                },
+                "Zepheniah Mann": {
+                    "heroName": "Viscous",
+                    "kills": 16,
+                    "deaths": 0,
+                    "assists": 14
+                },
+                "Soulless": {
+                    "heroName": "Abrams",
+                    "kills": 8,
+                    "deaths": 0,
+                    "assists": 9
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Kelvin",
+                    "kills": 9,
+                    "deaths": 7,
+                    "assists": 22
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Haze",
+                    "kills": 15,
+                    "deaths": 3,
+                    "assists": 30
+                }
+            },
+            "ArchMother": {
+                "IvanTheSpaceBiker": {
+                    "heroName": "Pocket",
+                    "kills": 16,
+                    "deaths": 11,
+                    "assists": 24
+                },
+                "Chell": {
+                    "heroName": "Vindicta",
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 27
+                },
+                "Force of Nature": {
+                    "heroName": "Dynamo",
+                    "kills": 10,
+                    "deaths": 9,
+                    "assists": 5
+                },
+                "GLaDOS": {
+                    "heroName": "Mo & Krill",
+                    "kills": 16,
+                    "deaths": 2,
+                    "assists": 3
+                },
+                "SMELLY UNFORTUNATE": {
+                    "heroName": "Seven",
+                    "kills": 14,
+                    "deaths": 4,
+                    "assists": 20
+                },
+                "CEDA": {
+                    "heroName": "Ivy",
+                    "kills": 19,
+                    "deaths": 1,
+                    "assists": 5
+                }
+            }
+        }
+    },
+    "5": {
+        "matchID": 5,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "The Administrator": {
+                    "heroName": "Lady Geist",
+                    "kills": 14,
+                    "deaths": 3,
+                    "assists": 13
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Paradox",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 21
+                },
+                "Screamin' Eagles": {
+                    "heroName": "Bebop",
+                    "kills": 8,
+                    "deaths": 4,
+                    "assists": 25
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Abrams",
+                    "kills": 1,
+                    "deaths": 12,
+                    "assists": 19
+                },
+                "Maggot": {
+                    "heroName": "Grey Talon",
+                    "kills": 17,
+                    "deaths": 3,
+                    "assists": 10
+                },
+                "Me": {
+                    "heroName": "Kelvin",
+                    "kills": 11,
+                    "deaths": 7,
+                    "assists": 2
+                }
+            },
+            "ArchMother": {
+                "BeepBeepBoop": {
+                    "heroName": "McGinnis",
+                    "kills": 18,
+                    "deaths": 1,
+                    "assists": 3
+                },
+                "Saxton Hale": {
+                    "heroName": "Haze",
+                    "kills": 20,
+                    "deaths": 15,
+                    "assists": 7
+                },
+                "Companion Cube": {
+                    "heroName": "Vindicta",
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 23
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Dynamo",
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 4
+                },
+                "The G-Man": {
+                    "heroName": "Wraith",
+                    "kills": 0,
+                    "deaths": 13,
+                    "assists": 23
+                },
+                "Zepheniah Mann": {
+                    "heroName": "Yamato",
+                    "kills": 20,
+                    "deaths": 15,
+                    "assists": 25
+                }
+            }
+        }
+    },
+    "6": {
+        "matchID": 6,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "The Combine": {
+                    "heroName": "Bebop",
+                    "kills": 8,
+                    "deaths": 2,
+                    "assists": 19
+                },
+                "CreditToTeam": {
+                    "heroName": "Viscous",
+                    "kills": 12,
+                    "deaths": 8,
+                    "assists": 9
+                },
+                "Kill Me": {
+                    "heroName": "Abrams",
+                    "kills": 5,
+                    "deaths": 6,
+                    "assists": 13
+                },
+                "Companion Cube": {
+                    "heroName": "McGinnis",
+                    "kills": 6,
+                    "deaths": 3,
+                    "assists": 3
+                },
+                "CryBaby": {
+                    "heroName": "Kelvin",
+                    "kills": 8,
+                    "deaths": 7,
+                    "assists": 20
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Warden",
+                    "kills": 8,
+                    "deaths": 7,
+                    "assists": 20
+                }
+            },
+            "ArchMother": {
+                "C++": {
+                    "heroName": "Haze",
+                    "kills": 15,
+                    "deaths": 3,
+                    "assists": 10
+                },
+                "HI THERE": {
+                    "heroName": "Pocket",
+                    "kills": 3,
+                    "deaths": 11,
+                    "assists": 24
+                },
+                "Poopy Joe": {
+                    "heroName": "Dynamo",
+                    "kills": 5,
+                    "deaths": 7,
+                    "assists": 9
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Seven",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 5
+                },
+                "MindlessElectrons": {
+                    "heroName": "Mo & Krill",
+                    "kills": 17,
+                    "deaths": 10,
+                    "assists": 26
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Wraith",
+                    "kills": 20,
+                    "deaths": 8,
+                    "assists": 18
+                }
+            }
+        }
+    },
+    "7": {
+        "matchID": 7,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "DeadHead": {
+                    "heroName": "Paradox",
+                    "kills": 6,
+                    "deaths": 11,
+                    "assists": 0
+                },
+                "RageQuit": {
+                    "heroName": "Bebop",
+                    "kills": 18,
+                    "deaths": 12,
+                    "assists": 20
+                },
+                "I LIVE!": {
+                    "heroName": "Warden",
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 4
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "McGinnis",
+                    "kills": 9,
+                    "deaths": 3,
+                    "assists": 4
+                },
+                "MoreGun": {
+                    "heroName": "Kelvin",
+                    "kills": 17,
+                    "deaths": 3,
+                    "assists": 21
+                },
+                "Dog": {
+                    "heroName": "Haze",
+                    "kills": 20,
+                    "deaths": 14,
+                    "assists": 27
+                }
+            },
+            "ArchMother": {
+                "Delicious Cake": {
+                    "heroName": "Pocket",
+                    "kills": 7,
+                    "deaths": 13,
+                    "assists": 23
+                },
+                "Chell": {
+                    "heroName": "Infernus",
+                    "kills": 10,
+                    "deaths": 5,
+                    "assists": 3
+                },
+                "Someone Else": {
+                    "heroName": "Dynamo",
+                    "kills": 10,
+                    "deaths": 3,
+                    "assists": 27
+                },
+                "LOS LOS LOS": {
+                    "heroName": "Seven",
+                    "kills": 13,
+                    "deaths": 3,
+                    "assists": 12
+                },
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Wraith",
+                    "kills": 18,
+                    "deaths": 3,
+                    "assists": 25
+                },
+                "CrySomeMore": {
+                    "heroName": "Yamato",
+                    "kills": 12,
+                    "deaths": 3,
+                    "assists": 2
+                }
+            }
+        }
+    },
+    "8": {
+        "matchID": 8,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "WITCH": {
+                    "heroName": "Lady Geist",
+                    "kills": 18,
+                    "deaths": 1,
+                    "assists": 26
+                },
+                "Kill Me": {
+                    "heroName": "Viscous",
+                    "kills": 5,
+                    "deaths": 6,
+                    "assists": 24
+                },
+                "Freakin' Unbelievable": {
+                    "heroName": "Abrams",
+                    "kills": 2,
+                    "deaths": 8,
+                    "assists": 29
+                },
+                "C++": {
+                    "heroName": "McGinnis",
+                    "kills": 17,
+                    "deaths": 9,
+                    "assists": 18
+                },
+                "HI THERE": {
+                    "heroName": "Warden",
+                    "kills": 2,
+                    "deaths": 8,
+                    "assists": 6
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Kelvin",
+                    "kills": 13,
+                    "deaths": 5,
+                    "assists": 18
+                }
+            },
+            "ArchMother": {
+                "Pow!": {
+                    "heroName": "Haze",
+                    "kills": 4,
+                    "deaths": 7,
+                    "assists": 10
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Pocket",
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 25
+                },
+                "SomeDude": {
+                    "heroName": "Infernus",
+                    "kills": 6,
+                    "deaths": 1,
+                    "assists": 20
+                },
+                "Mentlegen": {
+                    "heroName": "Mo & Krill",
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 1
+                },
+                "MindlessElectrons": {
+                    "heroName": "Ivy",
+                    "kills": 1,
+                    "deaths": 7,
+                    "assists": 18
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Yamato",
+                    "kills": 19,
+                    "deaths": 5,
+                    "assists": 20
+                }
+            }
+        }
+    },
+    "9": {
+        "matchID": 9,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Target Practice": {
+                    "heroName": "Bebop",
+                    "kills": 1,
+                    "deaths": 5,
+                    "assists": 21
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Paradox",
+                    "kills": 4,
+                    "deaths": 13,
+                    "assists": 8
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Kelvin",
+                    "kills": 11,
+                    "deaths": 9,
+                    "assists": 11
+                },
+                "Pow!": {
+                    "heroName": "Warden",
+                    "kills": 8,
+                    "deaths": 9,
+                    "assists": 8
+                },
+                "ZAWMBEEZ": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 5,
+                    "assists": 11
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Haze",
+                    "kills": 10,
+                    "deaths": 4,
+                    "assists": 17
+                }
+            },
+            "ArchMother": {
+                "Numnutz": {
+                    "heroName": "Pocket",
+                    "kills": 3,
+                    "deaths": 9,
+                    "assists": 8
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Vindicta",
+                    "kills": 19,
+                    "deaths": 11,
+                    "assists": 14
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Mo & Krill",
+                    "kills": 0,
+                    "deaths": 10,
+                    "assists": 7
+                },
+                "Me": {
+                    "heroName": "Dynamo",
+                    "kills": 9,
+                    "deaths": 8,
+                    "assists": 21
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "Wraith",
+                    "kills": 19,
+                    "deaths": 13,
+                    "assists": 16
+                },
+                "Kill Me": {
+                    "heroName": "Yamato",
+                    "kills": 15,
+                    "deaths": 3,
+                    "assists": 25
+                }
+            }
+        }
+    },
+    "20": {
+        "matchID": 20,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Pow!": {
+                    "heroName": "Lady Geist",
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 9
+                },
+                "The G-Man": {
+                    "heroName": "Bebop",
+                    "kills": 1,
+                    "deaths": 11,
+                    "assists": 14
+                },
+                "GLaDOS": {
+                    "heroName": "Abrams",
+                    "kills": 17,
+                    "deaths": 8,
+                    "assists": 14
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Warden",
+                    "kills": 2,
+                    "deaths": 3,
+                    "assists": 13
+                },
+                "The Administrator": {
+                    "heroName": "Kelvin",
+                    "kills": 15,
+                    "deaths": 3,
+                    "assists": 9
+                },
+                "Force of Nature": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 3,
+                    "assists": 5
+                }
+            },
+            "ArchMother": {
+                "Ze Ubermensch": {
+                    "heroName": "McGinnis",
+                    "kills": 11,
+                    "deaths": 8,
+                    "assists": 3
+                },
+                "Kaboom!": {
+                    "heroName": "Pocket",
+                    "kills": 19,
+                    "deaths": 15,
+                    "assists": 20
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Infernus",
+                    "kills": 9,
+                    "deaths": 9,
+                    "assists": 4
+                },
+                "Crazed Gunman": {
+                    "heroName": "Dynamo",
+                    "kills": 7,
+                    "deaths": 2,
+                    "assists": 21
+                },
+                "Humans Are Weak": {
+                    "heroName": "Ivy",
+                    "kills": 5,
+                    "deaths": 1,
+                    "assists": 8
+                },
+                "CrySomeMore": {
+                    "heroName": "Wraith",
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 24
+                }
+            }
+        }
+    },
+    "21": {
+        "matchID": 21,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Totally Not A Bot": {
+                    "heroName": "Bebop",
+                    "kills": 15,
+                    "deaths": 14,
+                    "assists": 15
+                },
+                "A Professional With Standards": {
+                    "heroName": "Viscous",
+                    "kills": 9,
+                    "deaths": 7,
+                    "assists": 29
+                },
+                "THEM": {
+                    "heroName": "Abrams",
+                    "kills": 6,
+                    "deaths": 3,
+                    "assists": 25
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Grey Talon",
+                    "kills": 2,
+                    "deaths": 4,
+                    "assists": 12
+                },
+                "Saxton Hale": {
+                    "heroName": "McGinnis",
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 18
+                },
+                "The Freeman": {
+                    "heroName": "Warden",
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 7
+                }
+            },
+            "ArchMother": {
+                "AimBot": {
+                    "heroName": "Haze",
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 24
+                },
+                "HI THERE": {
+                    "heroName": "Infernus",
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 2
+                },
+                "Soulless": {
+                    "heroName": "Pocket",
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 22
+                },
+                "The G-Man": {
+                    "heroName": "Seven",
+                    "kills": 7,
+                    "deaths": 7,
+                    "assists": 6
+                },
+                "AmNot": {
+                    "heroName": "Dynamo",
+                    "kills": 11,
+                    "deaths": 9,
+                    "assists": 22
+                },
+                "Chucklenuts": {
+                    "heroName": "Ivy",
+                    "kills": 15,
+                    "deaths": 0,
+                    "assists": 21
+                }
+            }
+        }
+    },
+    "22": {
+        "matchID": 22,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Grim Bloody Fable": {
+                    "heroName": "Lady Geist",
+                    "kills": 15,
+                    "deaths": 7,
+                    "assists": 16
+                },
+                "Kill Me": {
+                    "heroName": "Bebop",
+                    "kills": 15,
+                    "deaths": 6,
+                    "assists": 10
+                },
+                "Cannon Fodder": {
+                    "heroName": "Abrams",
+                    "kills": 6,
+                    "deaths": 4,
+                    "assists": 28
+                },
+                "trigger_hurt": {
+                    "heroName": "Warden",
+                    "kills": 4,
+                    "deaths": 6,
+                    "assists": 27
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Grey Talon",
+                    "kills": 15,
+                    "deaths": 6,
+                    "assists": 3
+                },
+                "Herr Doktor": {
+                    "heroName": "Kelvin",
+                    "kills": 4,
+                    "deaths": 3,
+                    "assists": 28
+                }
+            },
+            "ArchMother": {
+                "Soulless": {
+                    "heroName": "McGinnis",
+                    "kills": 13,
+                    "deaths": 6,
+                    "assists": 20
+                },
+                "Me": {
+                    "heroName": "Infernus",
+                    "kills": 2,
+                    "deaths": 0,
+                    "assists": 27
+                },
+                "A Professional With Standards": {
+                    "heroName": "Seven",
+                    "kills": 14,
+                    "deaths": 10,
+                    "assists": 13
+                },
+                "I LIVE!": {
+                    "heroName": "Ivy",
+                    "kills": 7,
+                    "deaths": 2,
+                    "assists": 5
+                },
+                "C++": {
+                    "heroName": "Wraith",
+                    "kills": 3,
+                    "deaths": 10,
+                    "assists": 30
+                },
+                "Still Alive": {
+                    "heroName": "Lash",
+                    "kills": 18,
+                    "deaths": 4,
+                    "assists": 11
+                }
+            }
+        }
+    },
+    "23": {
+        "matchID": 23,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Someone Else": {
+                    "heroName": "Lady Geist",
+                    "kills": 9,
+                    "deaths": 10,
+                    "assists": 7
+                },
+                "Mega Baboon": {
+                    "heroName": "Paradox",
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 7
+                },
+                "Force of Nature": {
+                    "heroName": "Bebop",
+                    "kills": 6,
+                    "deaths": 14,
+                    "assists": 30
+                },
+                "The Administrator": {
+                    "heroName": "Viscous",
+                    "kills": 12,
+                    "deaths": 10,
+                    "assists": 27
+                },
+                "SomeDude": {
+                    "heroName": "Abrams",
+                    "kills": 18,
+                    "deaths": 5,
+                    "assists": 3
+                },
+                "THEM": {
+                    "heroName": "Grey Talon",
+                    "kills": 9,
+                    "deaths": 10,
+                    "assists": 28
+                }
+            },
+            "ArchMother": {
+                "Numnutz": {
+                    "heroName": "McGinnis",
+                    "kills": 4,
+                    "deaths": 1,
+                    "assists": 27
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Warden",
+                    "kills": 9,
+                    "deaths": 7,
+                    "assists": 29
+                },
+                "CrySomeMore": {
+                    "heroName": "Infernus",
+                    "kills": 3,
+                    "deaths": 2,
+                    "assists": 14
+                },
+                "MoreGun": {
+                    "heroName": "Pocket",
+                    "kills": 11,
+                    "deaths": 14,
+                    "assists": 4
+                },
+                "Freakin' Unbelievable": {
+                    "heroName": "Dynamo",
+                    "kills": 4,
+                    "deaths": 7,
+                    "assists": 17
+                },
+                "Ze Ubermensch": {
+                    "heroName": "Ivy",
+                    "kills": 13,
+                    "deaths": 2,
+                    "assists": 26
+                }
+            }
+        }
+    },
+    "24": {
+        "matchID": 24,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "I LIVE!": {
+                    "heroName": "Lady Geist",
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 21
+                },
+                "Still Alive": {
+                    "heroName": "Paradox",
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 12
+                },
+                "Glorified Toaster with Legs": {
+                    "heroName": "Kelvin",
+                    "kills": 16,
+                    "deaths": 1,
+                    "assists": 12
+                },
+                "Kill Me": {
+                    "heroName": "McGinnis",
+                    "kills": 20,
+                    "deaths": 0,
+                    "assists": 9
+                },
+                "Poopy Joe": {
+                    "heroName": "Warden",
+                    "kills": 11,
+                    "deaths": 14,
+                    "assists": 28
+                },
+                "IvanTheSpaceBiker": {
+                    "heroName": "Infernus",
+                    "kills": 13,
+                    "deaths": 4,
+                    "assists": 25
+                }
+            },
+            "ArchMother": {
+                "TAAAAANK!": {
+                    "heroName": "Dynamo",
+                    "kills": 3,
+                    "deaths": 7,
+                    "assists": 2
+                },
+                "ThatGuy": {
+                    "heroName": "Mo & Krill",
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 29
+                },
+                "Totally Not A Bot": {
+                    "heroName": "Seven",
+                    "kills": 1,
+                    "deaths": 15,
+                    "assists": 22
+                },
+                "Herr Doktor": {
+                    "heroName": "Ivy",
+                    "kills": 1,
+                    "deaths": 7,
+                    "assists": 29
+                },
+                "Chucklenuts": {
+                    "heroName": "Wraith",
+                    "kills": 18,
+                    "deaths": 0,
+                    "assists": 30
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Lash",
+                    "kills": 2,
+                    "deaths": 1,
+                    "assists": 20
+                }
+            }
+        }
+    },
+    "25": {
+        "matchID": 25,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "GutsAndGlory!": {
+                    "heroName": "Bebop",
+                    "kills": 2,
+                    "deaths": 0,
+                    "assists": 16
+                },
+                "Me": {
+                    "heroName": "Viscous",
+                    "kills": 7,
+                    "deaths": 2,
+                    "assists": 0
+                },
+                "Crazed Gunman": {
+                    "heroName": "Kelvin",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 7
+                },
+                "Poopy Joe": {
+                    "heroName": "Warden",
+                    "kills": 19,
+                    "deaths": 15,
+                    "assists": 6
+                },
+                "H@XX0RZ": {
+                    "heroName": "Infernus",
+                    "kills": 1,
+                    "deaths": 7,
+                    "assists": 25
+                },
+                "RageQuit": {
+                    "heroName": "Vindicta",
+                    "kills": 15,
+                    "deaths": 5,
+                    "assists": 14
+                }
+            },
+            "ArchMother": {
+                "Chell": {
+                    "heroName": "Seven",
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 8
+                },
+                "Saxton Hale": {
+                    "heroName": "Dynamo",
+                    "kills": 15,
+                    "deaths": 1,
+                    "assists": 23
+                },
+                "10001011101": {
+                    "heroName": "Mo & Krill",
+                    "kills": 14,
+                    "deaths": 6,
+                    "assists": 14
+                },
+                "GLaDOS": {
+                    "heroName": "Ivy",
+                    "kills": 19,
+                    "deaths": 9,
+                    "assists": 16
+                },
+                "Kaboom!": {
+                    "heroName": "Yamato",
+                    "kills": 4,
+                    "deaths": 13,
+                    "assists": 13
+                },
+                "CEDA": {
+                    "heroName": "Wraith",
+                    "kills": 12,
+                    "deaths": 5,
+                    "assists": 12
+                }
+            }
+        }
+    },
+    "26": {
+        "matchID": 26,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "ZAWMBEEZ": {
+                    "heroName": "Lady Geist",
+                    "kills": 14,
+                    "deaths": 11,
+                    "assists": 29
+                },
+                "DeadHead": {
+                    "heroName": "Paradox",
+                    "kills": 3,
+                    "deaths": 4,
+                    "assists": 8
+                },
+                "Soulless": {
+                    "heroName": "Grey Talon",
+                    "kills": 13,
+                    "deaths": 12,
+                    "assists": 7
+                },
+                "The Freeman": {
+                    "heroName": "McGinnis",
+                    "kills": 13,
+                    "deaths": 7,
+                    "assists": 12
+                },
+                "SomeDude": {
+                    "heroName": "Kelvin",
+                    "kills": 12,
+                    "deaths": 2,
+                    "assists": 19
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Warden",
+                    "kills": 11,
+                    "deaths": 6,
+                    "assists": 2
+                }
+            },
+            "ArchMother": {
+                "Crazed Gunman": {
+                    "heroName": "Haze",
+                    "kills": 9,
+                    "deaths": 2,
+                    "assists": 28
+                },
+                "Target Practice": {
+                    "heroName": "Pocket",
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 14
+                },
+                "Mann Co.": {
+                    "heroName": "Seven",
+                    "kills": 10,
+                    "deaths": 10,
+                    "assists": 10
+                },
+                "Mega Baboon": {
+                    "heroName": "Dynamo",
+                    "kills": 8,
+                    "deaths": 14,
+                    "assists": 1
+                },
+                "Someone Else": {
+                    "heroName": "Lash",
+                    "kills": 6,
+                    "deaths": 4,
+                    "assists": 24
+                },
+                "Companion Cube": {
+                    "heroName": "Wraith",
+                    "kills": 15,
+                    "deaths": 11,
+                    "assists": 10
+                }
+            }
+        }
+    },
+    "27": {
+        "matchID": 27,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "0xDEADBEEF": {
+                    "heroName": "Lady Geist",
+                    "kills": 4,
+                    "deaths": 6,
+                    "assists": 11
+                },
+                "Someone Else": {
+                    "heroName": "Viscous",
+                    "kills": 10,
+                    "deaths": 7,
+                    "assists": 14
+                },
+                "Archimedes!": {
+                    "heroName": "Warden",
+                    "kills": 19,
+                    "deaths": 10,
+                    "assists": 9
+                },
+                "LOS LOS LOS": {
+                    "heroName": "McGinnis",
+                    "kills": 0,
+                    "deaths": 12,
+                    "assists": 30
+                },
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Haze",
+                    "kills": 15,
+                    "deaths": 9,
+                    "assists": 10
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Pocket",
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 13
+                }
+            },
+            "ArchMother": {
+                "Headful of Eyeballs": {
+                    "heroName": "Infernus",
+                    "kills": 13,
+                    "deaths": 4,
+                    "assists": 10
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Vindicta",
+                    "kills": 6,
+                    "deaths": 14,
+                    "assists": 28
+                },
+                "Mentlegen": {
+                    "heroName": "Seven",
+                    "kills": 7,
+                    "deaths": 10,
+                    "assists": 20
+                },
+                "CrySomeMore": {
+                    "heroName": "Yamato",
+                    "kills": 2,
+                    "deaths": 7,
+                    "assists": 21
+                },
+                "Numnutz": {
+                    "heroName": "Lash",
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 0
+                },
+                "HI THERE": {
+                    "heroName": "Wraith",
+                    "kills": 16,
+                    "deaths": 4,
+                    "assists": 16
+                }
+            }
+        }
+    },
+    "28": {
+        "matchID": 28,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Glorified Toaster with Legs": {
+                    "heroName": "Paradox",
+                    "kills": 4,
+                    "deaths": 7,
+                    "assists": 23
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Bebop",
+                    "kills": 3,
+                    "deaths": 3,
+                    "assists": 29
+                },
+                "Target Practice": {
+                    "heroName": "Viscous",
+                    "kills": 16,
+                    "deaths": 10,
+                    "assists": 29
+                },
+                "CreditToTeam": {
+                    "heroName": "Abrams",
+                    "kills": 6,
+                    "deaths": 11,
+                    "assists": 16
+                },
+                "Kaboom!": {
+                    "heroName": "Warden",
+                    "kills": 9,
+                    "deaths": 0,
+                    "assists": 25
+                },
+                "H@XX0RZ": {
+                    "heroName": "Pocket",
+                    "kills": 18,
+                    "deaths": 10,
+                    "assists": 29
+                }
+            },
+            "ArchMother": {
+                "Pow!": {
+                    "heroName": "Vindicta",
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 2
+                },
+                "CEDA": {
+                    "heroName": "Dynamo",
+                    "kills": 17,
+                    "deaths": 7,
+                    "assists": 26
+                },
+                "Kill Me": {
+                    "heroName": "Mo & Krill",
+                    "kills": 13,
+                    "deaths": 14,
+                    "assists": 25
+                },
+                "Chucklenuts": {
+                    "heroName": "Seven",
+                    "kills": 3,
+                    "deaths": 10,
+                    "assists": 15
+                },
+                "Nobody": {
+                    "heroName": "Ivy",
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 6
+                },
+                "Mann Co.": {
+                    "heroName": "Yamato",
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 8
+                }
+            }
+        }
+    },
+    "29": {
+        "matchID": 29,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Mentlegen": {
+                    "heroName": "Lady Geist",
+                    "kills": 18,
+                    "deaths": 6,
+                    "assists": 9
+                },
+                "Dog": {
+                    "heroName": "Bebop",
+                    "kills": 20,
+                    "deaths": 9,
+                    "assists": 2
+                },
+                "CrySomeMore": {
+                    "heroName": "Abrams",
+                    "kills": 13,
+                    "deaths": 5,
+                    "assists": 20
+                },
+                "Me": {
+                    "heroName": "Kelvin",
+                    "kills": 18,
+                    "deaths": 2,
+                    "assists": 27
+                },
+                "CryBaby": {
+                    "heroName": "Pocket",
+                    "kills": 8,
+                    "deaths": 14,
+                    "assists": 16
+                },
+                "DeadHead": {
+                    "heroName": "Infernus",
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 9
+                }
+            },
+            "ArchMother": {
+                "Mega Baboon": {
+                    "heroName": "Seven",
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 11
+                },
+                "AmNot": {
+                    "heroName": "Dynamo",
+                    "kills": 7,
+                    "deaths": 15,
+                    "assists": 0
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Ivy",
+                    "kills": 15,
+                    "deaths": 6,
+                    "assists": 12
+                },
+                "The Administrator": {
+                    "heroName": "Wraith",
+                    "kills": 5,
+                    "deaths": 5,
+                    "assists": 10
+                },
+                "Crazed Gunman": {
+                    "heroName": "Lash",
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 16
+                },
+                "ZAWMBEEZ": {
+                    "heroName": "Yamato",
+                    "kills": 10,
+                    "deaths": 11,
+                    "assists": 3
+                }
+            }
+        }
+    },
+    "30": {
+        "matchID": 30,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "CRITRAWKETS": {
+                    "heroName": "Lady Geist",
+                    "kills": 7,
+                    "deaths": 9,
+                    "assists": 6
+                },
+                "Dog": {
+                    "heroName": "Bebop",
+                    "kills": 18,
+                    "deaths": 4,
+                    "assists": 1
+                },
+                "A Professional With Standards": {
+                    "heroName": "Viscous",
+                    "kills": 19,
+                    "deaths": 14,
+                    "assists": 18
+                },
+                "The G-Man": {
+                    "heroName": "Warden",
+                    "kills": 7,
+                    "deaths": 8,
+                    "assists": 30
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Haze",
+                    "kills": 12,
+                    "deaths": 1,
+                    "assists": 11
+                },
+                "Chucklenuts": {
+                    "heroName": "Pocket",
+                    "kills": 11,
+                    "deaths": 8,
+                    "assists": 3
+                }
+            },
+            "ArchMother": {
+                "MoreGun": {
+                    "heroName": "Vindicta",
+                    "kills": 7,
+                    "deaths": 1,
+                    "assists": 27
+                },
+                "Mentlegen": {
+                    "heroName": "Seven",
+                    "kills": 14,
+                    "deaths": 3,
+                    "assists": 3
+                },
+                "DeadHead": {
+                    "heroName": "Mo & Krill",
+                    "kills": 8,
+                    "deaths": 11,
+                    "assists": 18
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Ivy",
+                    "kills": 13,
+                    "deaths": 6,
+                    "assists": 30
+                },
+                "Mann Co.": {
+                    "heroName": "Lash",
+                    "kills": 3,
+                    "deaths": 8,
+                    "assists": 10
+                },
+                "Divide by Zero": {
+                    "heroName": "Wraith",
+                    "kills": 4,
+                    "deaths": 4,
+                    "assists": 22
+                }
+            }
+        }
+    },
+    "31": {
+        "matchID": 31,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "BoomerBile": {
+                    "heroName": "Bebop",
+                    "kills": 13,
+                    "deaths": 12,
+                    "assists": 17
+                },
+                "Chell": {
+                    "heroName": "Viscous",
+                    "kills": 17,
+                    "deaths": 5,
+                    "assists": 27
+                },
+                "Zepheniah Mann": {
+                    "heroName": "Abrams",
+                    "kills": 4,
+                    "deaths": 14,
+                    "assists": 15
+                },
+                "Screamin' Eagles": {
+                    "heroName": "McGinnis",
+                    "kills": 2,
+                    "deaths": 10,
+                    "assists": 21
+                },
+                "Herr Doktor": {
+                    "heroName": "Grey Talon",
+                    "kills": 3,
+                    "deaths": 14,
+                    "assists": 27
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Haze",
+                    "kills": 19,
+                    "deaths": 14,
+                    "assists": 9
+                }
+            },
+            "ArchMother": {
+                "Tiny Baby Man": {
+                    "heroName": "Vindicta",
+                    "kills": 17,
+                    "deaths": 3,
+                    "assists": 22
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Dynamo",
+                    "kills": 3,
+                    "deaths": 5,
+                    "assists": 26
+                },
+                "10001011101": {
+                    "heroName": "Mo & Krill",
+                    "kills": 10,
+                    "deaths": 7,
+                    "assists": 11
+                },
+                "Mega Baboon": {
+                    "heroName": "Seven",
+                    "kills": 18,
+                    "deaths": 15,
+                    "assists": 3
+                },
+                "Poopy Joe": {
+                    "heroName": "Wraith",
+                    "kills": 17,
+                    "deaths": 1,
+                    "assists": 3
+                },
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Lash",
+                    "kills": 16,
+                    "deaths": 1,
+                    "assists": 22
+                }
+            }
+        }
+    },
+    "32": {
+        "matchID": 32,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Screamin' Eagles": {
+                    "heroName": "Abrams",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 25
+                },
+                "Force of Nature": {
+                    "heroName": "Grey Talon",
+                    "kills": 13,
+                    "deaths": 7,
+                    "assists": 13
+                },
+                "trigger_hurt": {
+                    "heroName": "Warden",
+                    "kills": 12,
+                    "deaths": 11,
+                    "assists": 28
+                },
+                "Nobody": {
+                    "heroName": "Kelvin",
+                    "kills": 20,
+                    "deaths": 6,
+                    "assists": 26
+                },
+                "DeadHead": {
+                    "heroName": "Pocket",
+                    "kills": 2,
+                    "deaths": 8,
+                    "assists": 15
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Infernus",
+                    "kills": 20,
+                    "deaths": 3,
+                    "assists": 2
+                }
+            },
+            "ArchMother": {
+                "CreditToTeam": {
+                    "heroName": "Vindicta",
+                    "kills": 5,
+                    "deaths": 3,
+                    "assists": 1
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Mo & Krill",
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 28
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Seven",
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 16
+                },
+                "Mann Co.": {
+                    "heroName": "Dynamo",
+                    "kills": 17,
+                    "deaths": 12,
+                    "assists": 12
+                },
+                "SomeDude": {
+                    "heroName": "Ivy",
+                    "kills": 16,
+                    "deaths": 6,
+                    "assists": 10
+                },
+                "CrySomeMore": {
+                    "heroName": "Wraith",
+                    "kills": 6,
+                    "deaths": 2,
+                    "assists": 23
+                }
+            }
+        }
+    },
+    "33": {
+        "matchID": 33,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "TAAAAANK!": {
+                    "heroName": "Lady Geist",
+                    "kills": 10,
+                    "deaths": 5,
+                    "assists": 19
+                },
+                "trigger_hurt": {
+                    "heroName": "Paradox",
+                    "kills": 20,
+                    "deaths": 14,
+                    "assists": 8
+                },
+                "THEM": {
+                    "heroName": "Viscous",
+                    "kills": 14,
+                    "deaths": 13,
+                    "assists": 12
+                },
+                "Zepheniah Mann": {
+                    "heroName": "Abrams",
+                    "kills": 6,
+                    "deaths": 15,
+                    "assists": 14
+                },
+                "Crazed Gunman": {
+                    "heroName": "Grey Talon",
+                    "kills": 14,
+                    "deaths": 11,
+                    "assists": 5
+                },
+                "BoomerBile": {
+                    "heroName": "Kelvin",
+                    "kills": 10,
+                    "deaths": 12,
+                    "assists": 15
+                }
+            },
+            "ArchMother": {
+                "Numnutz": {
+                    "heroName": "Haze",
+                    "kills": 1,
+                    "deaths": 13,
+                    "assists": 18
+                },
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Pocket",
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 17
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Vindicta",
+                    "kills": 16,
+                    "deaths": 2,
+                    "assists": 26
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "Dynamo",
+                    "kills": 17,
+                    "deaths": 4,
+                    "assists": 26
+                },
+                "Screamin' Eagles": {
+                    "heroName": "Ivy",
+                    "kills": 3,
+                    "deaths": 6,
+                    "assists": 19
+                },
+                "Ze Ubermensch": {
+                    "heroName": "Wraith",
+                    "kills": 8,
+                    "deaths": 4,
+                    "assists": 22
+                }
+            }
+        }
+    },
+    "34": {
+        "matchID": 34,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Soulless": {
+                    "heroName": "Paradox",
+                    "kills": 4,
+                    "deaths": 4,
+                    "assists": 0
+                },
+                "Saxton Hale": {
+                    "heroName": "Bebop",
+                    "kills": 14,
+                    "deaths": 6,
+                    "assists": 19
+                },
+                "Pow!": {
+                    "heroName": "Viscous",
+                    "kills": 2,
+                    "deaths": 12,
+                    "assists": 13
+                },
+                "0xDEADBEEF": {
+                    "heroName": "Abrams",
+                    "kills": 8,
+                    "deaths": 11,
+                    "assists": 8
+                },
+                "Poopy Joe": {
+                    "heroName": "Kelvin",
+                    "kills": 9,
+                    "deaths": 11,
+                    "assists": 12
+                },
+                "Me": {
+                    "heroName": "Warden",
+                    "kills": 13,
+                    "deaths": 9,
+                    "assists": 14
+                }
+            },
+            "ArchMother": {
+                "Still Alive": {
+                    "heroName": "Pocket",
+                    "kills": 1,
+                    "deaths": 15,
+                    "assists": 27
+                },
+                "trigger_hurt": {
+                    "heroName": "Infernus",
+                    "kills": 12,
+                    "deaths": 10,
+                    "assists": 20
+                },
+                "Herr Doktor": {
+                    "heroName": "Dynamo",
+                    "kills": 4,
+                    "deaths": 14,
+                    "assists": 7
+                },
+                "SomeDude": {
+                    "heroName": "Seven",
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 1
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Ivy",
+                    "kills": 13,
+                    "deaths": 1,
+                    "assists": 2
+                },
+                "Hostage": {
+                    "heroName": "Wraith",
+                    "kills": 9,
+                    "deaths": 6,
+                    "assists": 6
+                }
+            }
+        }
+    },
+    "35": {
+        "matchID": 35,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "GutsAndGlory!": {
+                    "heroName": "Bebop",
+                    "kills": 7,
+                    "deaths": 7,
+                    "assists": 22
+                },
+                "Crowbar": {
+                    "heroName": "Warden",
+                    "kills": 16,
+                    "deaths": 6,
+                    "assists": 1
+                },
+                "BoomerBile": {
+                    "heroName": "Kelvin",
+                    "kills": 5,
+                    "deaths": 6,
+                    "assists": 5
+                },
+                "Soulless": {
+                    "heroName": "Pocket",
+                    "kills": 8,
+                    "deaths": 1,
+                    "assists": 28
+                },
+                "The Administrator": {
+                    "heroName": "Infernus",
+                    "kills": 9,
+                    "deaths": 6,
+                    "assists": 8
+                },
+                "Me": {
+                    "heroName": "Vindicta",
+                    "kills": 2,
+                    "deaths": 5,
+                    "assists": 29
+                }
+            },
+            "ArchMother": {
+                "MindlessElectrons": {
+                    "heroName": "Dynamo",
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 4
+                },
+                "I LIVE!": {
+                    "heroName": "Seven",
+                    "kills": 11,
+                    "deaths": 2,
+                    "assists": 23
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Mo & Krill",
+                    "kills": 18,
+                    "deaths": 10,
+                    "assists": 16
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Ivy",
+                    "kills": 18,
+                    "deaths": 3,
+                    "assists": 16
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Yamato",
+                    "kills": 12,
+                    "deaths": 1,
+                    "assists": 7
+                },
+                "CrySomeMore": {
+                    "heroName": "Lash",
+                    "kills": 20,
+                    "deaths": 8,
+                    "assists": 1
+                }
+            }
+        }
+    },
+    "36": {
+        "matchID": 36,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Gentlemanne of Leisure": {
+                    "heroName": "Bebop",
+                    "kills": 19,
+                    "deaths": 8,
+                    "assists": 29
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Viscous",
+                    "kills": 18,
+                    "deaths": 10,
+                    "assists": 28
+                },
+                "AimBot": {
+                    "heroName": "Abrams",
+                    "kills": 5,
+                    "deaths": 8,
+                    "assists": 21
+                },
+                "AmNot": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 10,
+                    "assists": 1
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Kelvin",
+                    "kills": 15,
+                    "deaths": 14,
+                    "assists": 10
+                },
+                "THEM": {
+                    "heroName": "Warden",
+                    "kills": 4,
+                    "deaths": 11,
+                    "assists": 1
+                }
+            },
+            "ArchMother": {
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Pocket",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 5
+                },
+                "CrySomeMore": {
+                    "heroName": "Dynamo",
+                    "kills": 2,
+                    "deaths": 12,
+                    "assists": 22
+                },
+                "Kaboom!": {
+                    "heroName": "Seven",
+                    "kills": 9,
+                    "deaths": 9,
+                    "assists": 27
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "Ivy",
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 18
+                },
+                "CreditToTeam": {
+                    "heroName": "Wraith",
+                    "kills": 16,
+                    "deaths": 5,
+                    "assists": 30
+                },
+                "The Administrator": {
+                    "heroName": "Yamato",
+                    "kills": 4,
+                    "deaths": 9,
+                    "assists": 2
+                }
+            }
+        }
+    },
+    "37": {
+        "matchID": 37,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "BoomerBile": {
+                    "heroName": "Bebop",
+                    "kills": 16,
+                    "deaths": 12,
+                    "assists": 7
+                },
+                "Aperture Science Prototype XR7": {
+                    "heroName": "Viscous",
+                    "kills": 5,
+                    "deaths": 13,
+                    "assists": 27
+                },
+                "Nobody": {
+                    "heroName": "Grey Talon",
+                    "kills": 20,
+                    "deaths": 2,
+                    "assists": 1
+                },
+                "The Administrator": {
+                    "heroName": "Warden",
+                    "kills": 15,
+                    "deaths": 1,
+                    "assists": 24
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "McGinnis",
+                    "kills": 6,
+                    "deaths": 14,
+                    "assists": 22
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Kelvin",
+                    "kills": 11,
+                    "deaths": 6,
+                    "assists": 14
+                }
+            },
+            "ArchMother": {
+                "trigger_hurt": {
+                    "heroName": "Pocket",
+                    "kills": 8,
+                    "deaths": 8,
+                    "assists": 27
+                },
+                "MindlessElectrons": {
+                    "heroName": "Vindicta",
+                    "kills": 15,
+                    "deaths": 11,
+                    "assists": 11
+                },
+                "MoreGun": {
+                    "heroName": "Seven",
+                    "kills": 0,
+                    "deaths": 4,
+                    "assists": 19
+                },
+                "Black Mesa": {
+                    "heroName": "Yamato",
+                    "kills": 10,
+                    "deaths": 12,
+                    "assists": 11
+                },
+                "Soulless": {
+                    "heroName": "Lash",
+                    "kills": 0,
+                    "deaths": 13,
+                    "assists": 10
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Wraith",
+                    "kills": 1,
+                    "deaths": 14,
+                    "assists": 19
+                }
+            }
+        }
+    },
+    "38": {
+        "matchID": 38,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "SomeDude": {
+                    "heroName": "Bebop",
+                    "kills": 19,
+                    "deaths": 5,
+                    "assists": 14
+                },
+                "TAAAAANK!": {
+                    "heroName": "Paradox",
+                    "kills": 20,
+                    "deaths": 9,
+                    "assists": 27
+                },
+                "Soulless": {
+                    "heroName": "Viscous",
+                    "kills": 2,
+                    "deaths": 5,
+                    "assists": 30
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Abrams",
+                    "kills": 4,
+                    "deaths": 8,
+                    "assists": 29
+                },
+                "Nom Nom Nom": {
+                    "heroName": "Warden",
+                    "kills": 14,
+                    "deaths": 7,
+                    "assists": 5
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "McGinnis",
+                    "kills": 16,
+                    "deaths": 4,
+                    "assists": 10
+                }
+            },
+            "ArchMother": {
+                "Crazed Gunman": {
+                    "heroName": "Pocket",
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 30
+                },
+                "Maggot": {
+                    "heroName": "Vindicta",
+                    "kills": 19,
+                    "deaths": 0,
+                    "assists": 23
+                },
+                "CEDA": {
+                    "heroName": "Seven",
+                    "kills": 1,
+                    "deaths": 9,
+                    "assists": 30
+                },
+                "CRITRAWKETS": {
+                    "heroName": "Dynamo",
+                    "kills": 6,
+                    "deaths": 15,
+                    "assists": 8
+                },
+                "The Combine": {
+                    "heroName": "Wraith",
+                    "kills": 6,
+                    "deaths": 10,
+                    "assists": 20
+                },
+                "Ribs Grow Back": {
+                    "heroName": "Lash",
+                    "kills": 11,
+                    "deaths": 6,
+                    "assists": 23
+                }
+            }
+        }
+    },
+    "39": {
+        "matchID": 39,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Delicious Cake": {
+                    "heroName": "Lady Geist",
+                    "kills": 10,
+                    "deaths": 10,
+                    "assists": 7
+                },
+                "Hostage": {
+                    "heroName": "Bebop",
+                    "kills": 1,
+                    "deaths": 5,
+                    "assists": 0
+                },
+                "Target Practice": {
+                    "heroName": "Abrams",
+                    "kills": 14,
+                    "deaths": 10,
+                    "assists": 8
+                },
+                "Crowbar": {
+                    "heroName": "McGinnis",
+                    "kills": 13,
+                    "deaths": 6,
+                    "assists": 12
+                },
+                "Herr Doktor": {
+                    "heroName": "Grey Talon",
+                    "kills": 18,
+                    "deaths": 12,
+                    "assists": 25
+                },
+                "Screamin' Eagles": {
+                    "heroName": "Haze",
+                    "kills": 8,
+                    "deaths": 1,
+                    "assists": 20
+                }
+            },
+            "ArchMother": {
+                "Headful of Eyeballs": {
+                    "heroName": "Pocket",
+                    "kills": 3,
+                    "deaths": 13,
+                    "assists": 8
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Vindicta",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 16
+                },
+                "The Freeman": {
+                    "heroName": "Dynamo",
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 25
+                },
+                "Saxton Hale": {
+                    "heroName": "Ivy",
+                    "kills": 2,
+                    "deaths": 3,
+                    "assists": 29
+                },
+                "Companion Cube": {
+                    "heroName": "Lash",
+                    "kills": 14,
+                    "deaths": 6,
+                    "assists": 16
+                },
+                "H@XX0RZ": {
+                    "heroName": "Wraith",
+                    "kills": 14,
+                    "deaths": 9,
+                    "assists": 10
+                }
+            }
+        }
+    },
+    "40": {
+        "matchID": 40,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Screamin' Eagles": {
+                    "heroName": "Lady Geist",
+                    "kills": 10,
+                    "deaths": 4,
+                    "assists": 2
+                },
+                "Headful of Eyeballs": {
+                    "heroName": "Paradox",
+                    "kills": 16,
+                    "deaths": 6,
+                    "assists": 8
+                },
+                "GutsAndGlory!": {
+                    "heroName": "Abrams",
+                    "kills": 8,
+                    "deaths": 1,
+                    "assists": 9
+                },
+                "GENTLE MANNE of LEISURE": {
+                    "heroName": "Grey Talon",
+                    "kills": 19,
+                    "deaths": 3,
+                    "assists": 14
+                },
+                "Delicious Cake": {
+                    "heroName": "Kelvin",
+                    "kills": 17,
+                    "deaths": 12,
+                    "assists": 9
+                },
+                "The Administrator": {
+                    "heroName": "Warden",
+                    "kills": 17,
+                    "deaths": 11,
+                    "assists": 30
+                }
+            },
+            "ArchMother": {
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Pocket",
+                    "kills": 1,
+                    "deaths": 8,
+                    "assists": 6
+                },
+                "THEM": {
+                    "heroName": "Mo & Krill",
+                    "kills": 20,
+                    "deaths": 14,
+                    "assists": 3
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Ivy",
+                    "kills": 7,
+                    "deaths": 4,
+                    "assists": 8
+                },
+                "BoomerBile": {
+                    "heroName": "Wraith",
+                    "kills": 17,
+                    "deaths": 7,
+                    "assists": 23
+                },
+                "CreditToTeam": {
+                    "heroName": "Yamato",
+                    "kills": 2,
+                    "deaths": 3,
+                    "assists": 21
+                },
+                "Archimedes!": {
+                    "heroName": "Lash",
+                    "kills": 14,
+                    "deaths": 0,
+                    "assists": 27
+                }
+            }
+        }
+    },
+    "41": {
+        "matchID": 41,
+        "winningTeam": "ArchMother",
+        "teams": {
+            "HiddenKing": {
+                "Mann Co.": {
+                    "heroName": "Bebop",
+                    "kills": 9,
+                    "deaths": 4,
+                    "assists": 12
+                },
+                "TAAAAANK!": {
+                    "heroName": "Paradox",
+                    "kills": 4,
+                    "deaths": 13,
+                    "assists": 3
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Viscous",
+                    "kills": 3,
+                    "deaths": 6,
+                    "assists": 7
+                },
+                "C++": {
+                    "heroName": "Abrams",
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 17
+                },
+                "Still Alive": {
+                    "heroName": "Grey Talon",
+                    "kills": 7,
+                    "deaths": 3,
+                    "assists": 19
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Kelvin",
+                    "kills": 3,
+                    "deaths": 10,
+                    "assists": 19
+                }
+            },
+            "ArchMother": {
+                "CryBaby": {
+                    "heroName": "Warden",
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 11
+                },
+                "One-Man Cheeseburger Apocalypse": {
+                    "heroName": "Pocket",
+                    "kills": 7,
+                    "deaths": 11,
+                    "assists": 5
+                },
+                "THEM": {
+                    "heroName": "Infernus",
+                    "kills": 14,
+                    "deaths": 8,
+                    "assists": 10
+                },
+                "CreditToTeam": {
+                    "heroName": "Dynamo",
+                    "kills": 20,
+                    "deaths": 0,
+                    "assists": 23
+                },
+                "Cannon Fodder": {
+                    "heroName": "Yamato",
+                    "kills": 8,
+                    "deaths": 3,
+                    "assists": 19
+                },
+                "CEDA": {
+                    "heroName": "Wraith",
+                    "kills": 8,
+                    "deaths": 5,
+                    "assists": 21
+                }
+            }
+        }
+    },
+    "42": {
+        "matchID": 42,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Humans Are Weak": {
+                    "heroName": "Lady Geist",
+                    "kills": 1,
+                    "deaths": 10,
+                    "assists": 23
+                },
+                "Freakin' Unbelievable": {
+                    "heroName": "Paradox",
+                    "kills": 5,
+                    "deaths": 7,
+                    "assists": 28
+                },
+                "CrySomeMore": {
+                    "heroName": "Viscous",
+                    "kills": 4,
+                    "deaths": 2,
+                    "assists": 2
+                },
+                "Poopy Joe": {
+                    "heroName": "Abrams",
+                    "kills": 5,
+                    "deaths": 1,
+                    "assists": 22
+                },
+                "CreditToTeam": {
+                    "heroName": "Grey Talon",
+                    "kills": 19,
+                    "deaths": 7,
+                    "assists": 2
+                },
+                "It's Filthy in There!": {
+                    "heroName": "Kelvin",
+                    "kills": 4,
+                    "deaths": 12,
+                    "assists": 19
+                }
+            },
+            "ArchMother": {
+                "Aperture Science Prototype XR7": {
+                    "heroName": "McGinnis",
+                    "kills": 20,
+                    "deaths": 6,
+                    "assists": 14
+                },
+                "BeepBeepBoop": {
+                    "heroName": "Haze",
+                    "kills": 4,
+                    "deaths": 5,
+                    "assists": 21
+                },
+                "Cannon Fodder": {
+                    "heroName": "Pocket",
+                    "kills": 9,
+                    "deaths": 3,
+                    "assists": 12
+                },
+                "Grim Bloody Fable": {
+                    "heroName": "Dynamo",
+                    "kills": 1,
+                    "deaths": 6,
+                    "assists": 19
+                },
+                "Totally Not A Bot": {
+                    "heroName": "Yamato",
+                    "kills": 2,
+                    "deaths": 5,
+                    "assists": 24
+                },
+                "Companion Cube": {
+                    "heroName": "Wraith",
+                    "kills": 20,
+                    "deaths": 5,
+                    "assists": 9
+                }
+            }
+        }
+    },
+    "43": {
+        "matchID": 43,
+        "winningTeam": "HiddenKing",
+        "teams": {
+            "HiddenKing": {
+                "Big Mean Muther Hubbard": {
+                    "heroName": "Paradox",
+                    "kills": 4,
+                    "deaths": 13,
+                    "assists": 9
+                },
+                "The Combine": {
+                    "heroName": "Bebop",
+                    "kills": 11,
+                    "deaths": 3,
+                    "assists": 0
+                },
+                "CreditToTeam": {
+                    "heroName": "Viscous",
+                    "kills": 3,
+                    "deaths": 10,
+                    "assists": 24
+                },
+                "ThatGuy": {
+                    "heroName": "McGinnis",
+                    "kills": 5,
+                    "deaths": 0,
+                    "assists": 26
+                },
+                "Tiny Baby Man": {
+                    "heroName": "Grey Talon",
+                    "kills": 8,
+                    "deaths": 10,
+                    "assists": 4
+                },
+                "Gentlemanne of Leisure": {
+                    "heroName": "Kelvin",
+                    "kills": 12,
+                    "deaths": 2,
+                    "assists": 9
+                }
+            },
+            "ArchMother": {
+                "Humans Are Weak": {
+                    "heroName": "Warden",
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 27
+                },
+                "LOS LOS LOS": {
+                    "heroName": "Infernus",
+                    "kills": 5,
+                    "deaths": 9,
+                    "assists": 25
+                },
+                "Hat-Wearing MAN": {
+                    "heroName": "Seven",
+                    "kills": 18,
+                    "deaths": 13,
+                    "assists": 19
+                },
+                "Crazed Gunman": {
+                    "heroName": "Mo & Krill",
+                    "kills": 7,
+                    "deaths": 10,
+                    "assists": 6
+                },
+                "Kaboom!": {
+                    "heroName": "Dynamo",
+                    "kills": 19,
+                    "deaths": 10,
+                    "assists": 19
+                },
+                "NotMe": {
+                    "heroName": "Yamato",
+                    "kills": 0,
+                    "deaths": 5,
+                    "assists": 15
+                }
+            }
+        }
+    }
+}

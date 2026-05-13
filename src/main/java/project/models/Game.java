@@ -5,7 +5,7 @@ package project.models;//
 //  @ Project : Untitled
 //  @ File Name : project.models.Game.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
@@ -13,14 +13,32 @@ import java.util.Map;
 
 public class Game {
     public int matchID;
-    public Map<String, Hero> players;
+    public Map<String, PlayerStats> players;
     public ETeam winningTeam;
 
     public Game() {}
 
-    public Game(int matchID, Map<String, Hero> players, ETeam winningTeam) {
+    public Game(int matchID, Map<String, PlayerStats> players, ETeam winningTeam) {
         this.matchID = matchID;
         this.players = players;
         this.winningTeam = winningTeam;
+    }
+
+    public static class PlayerStats {
+        public String heroName;
+        public int kills;
+        public int deaths;
+        public int assists;
+        public ETeam team;
+
+        public PlayerStats() {}
+
+        public PlayerStats(String heroName, int kills, int deaths, int assists, ETeam team) {
+            this.heroName = heroName;
+            this.kills = kills;
+            this.deaths = deaths;
+            this.assists = assists;
+            this.team = team;
+        }
     }
 }

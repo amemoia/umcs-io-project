@@ -6,5 +6,8 @@ public enum EMenuState {
     Register,
     Main,
     HeroTierlist,
-    GameImport
+    ImportExampleGames,
+    AdminTools,
+    ImportSingleGame,
+    PlayerStats
 }

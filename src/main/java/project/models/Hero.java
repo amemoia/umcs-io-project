@@ -5,7 +5,7 @@ package project.models;//
 //  @ Project : Untitled
 //  @ File Name : project.models.Hero.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
@@ -13,17 +13,16 @@ public class Hero {
     public String name;
     private int wins;
     private int totalGames;
+    private int totalKills;
+    private int totalDeaths;
+    private int totalAssists;
     public String adminComment;
 
     public Hero() {}
 
     public Hero(String name) {
         this.name = name;
-    }
-
-    public void updateStats(int wins, int losses) {
-        this.wins += wins;
-        this.totalGames += (wins + losses);
+        this.adminComment = "";
     }
 
     public int getWins() {
@@ -40,5 +39,36 @@ public class Hero {
 
     public void setTotalGames(int totalGames) {
         this.totalGames = totalGames;
+    }
+
+    public int getTotalKills() {
+        return totalKills;
+    }
+
+    public void setTotalKills(int totalKills) {
+        this.totalKills = totalKills;
+    }
+
+    public int getTotalDeaths() {
+        return totalDeaths;
+    }
+
+    public void setTotalDeaths(int totalDeaths) {
+        this.totalDeaths = totalDeaths;
+    }
+
+    public int getTotalAssists() {
+        return totalAssists;
+    }
+
+    public void setTotalAssists(int totalAssists) {
+        this.totalAssists = totalAssists;
+    }
+
+    public double getKdaRatio() {
+        if (totalDeaths == 0) {
+            return totalKills + totalAssists;
+        }
+        return (double) (totalKills + totalAssists) / totalDeaths;
     }
 }

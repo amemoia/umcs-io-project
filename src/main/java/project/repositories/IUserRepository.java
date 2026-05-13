@@ -6,7 +6,7 @@ package project.repositories;
 //  @ Project : Untitled
 //  @ File Name : project.repositories.IUserRepository.java
 //  @ Date : 4/30/2026
-//  @ Author : 
+//  @ Author :
 //
 //
 
@@ -15,4 +15,6 @@ import project.models.User;
 public interface IUserRepository {
     void addUser(String username, String hashedPassword);
     User authenticate(String username, String password);
+    User getUser(String username);
+    void updateUser(User user);
 }
